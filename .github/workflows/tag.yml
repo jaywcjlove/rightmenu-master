@@ -1,0 +1,30 @@
+name: CI
+on:
+  push:
+    # branches:
+    # - main
+    tags:
+      - v*
+
+jobs:
+  tags:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Extract version from tag
+        id: extract_version
+        run: echo "VERSION=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+
+      - name: Create Tag
+        id: create_tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          version: ${{ env.VERSION }}
+          release: true
+          body: |
+            <a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="RightMenu Master for macOS">
+            <img alt="Paste Quick for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+            </a>
