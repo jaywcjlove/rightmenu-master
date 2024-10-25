@@ -52,8 +52,8 @@ RightMenu Master provides the ability to copy the full file path, file name, or 
 
 When permissions are passively confirmed and then denied, reauthorizing permissions may cause the menu to not display. In this case, you need to restart the Finder extension. Restarting the computer can achieve this, but it’s cumbersome. Here are two simpler methods:
 
-Method 1: Execute `killall Finder` in the command line to restart Finder.  
-Method 2: Use the system’s `Force Quit Applications` feature to reload Finder. Open the `Force Quit Applications` window using the shortcut <kbd>⌘</kbd><kbd>⌥</kbd><kbd>esc</kbd>, find the `Finder` application, and click the `Relaunch` button below.
+- Method 1: Execute `killall Finder` in the command line to restart Finder.  
+- Method 2: Use the system’s `Force Quit Applications` feature to reload Finder. Open the `Force Quit Applications` window using the shortcut <kbd>⌘</kbd><kbd>⌥</kbd><kbd>esc</kbd>, find the `Finder` application, and click the `Relaunch` button below.
 
 ### Frequent Authorization Pop-Up Issues
 

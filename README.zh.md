@@ -50,8 +50,8 @@ RightMenu Master 提供了复制完整文件路径/文件名/文件夹名的功�
 
 在被动确认权限，如果拒绝了，再重新授权权限，这时菜单不显示，需要重启 Finder 扩展，可以通过重启电脑来重启插件，这样比较繁琐，有两个比较简单的方法：
 
-方法1：在命令行中执行 `killall Finder` 重启 Finder  
-方法2：通过系统的 `强制退出应用` 功能，重新加载 Finder，通过 <kbd>⌘</kbd><kbd>⌥</kbd><kbd>esc</kbd> 快捷键打开`强制退出应用`界面，找到 Finder 应用，点击下面 `Relaunch` 按钮。
+- 方法1：在命令行中执行 `killall Finder` 重启 Finder  
+- 方法2：通过系统的 `强制退出应用` 功能，重新加载 Finder，通过 <kbd>⌘</kbd><kbd>⌥</kbd><kbd>esc</kbd> 快捷键打开`强制退出应用`界面，找到 Finder 应用，点击下面 `Relaunch` 按钮。
 
 ### 频繁弹出授权问题
 
