@@ -6,6 +6,7 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.md">English</a> • 
+		<a href="#常见问题解答">常见问题</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+Quick+RSS">联系&支持</a>
   </p>
   <p>
@@ -42,6 +43,19 @@ Finder 缺乏便捷的方式来创建特定格式的新文件，而 RightMenu Ma
 **复制功能**  
 
 RightMenu Master 提供了复制完整文件路径/文件名/文件夹名的功能，您还可以快速复制文件或文件夹，进一步简化日常操作。
+
+## 常见问题解答
+
+### Finder 扩展部分菜单不显示问题
+
+在被动确认权限，如果拒绝了，再重新授权权限，这时菜单不显示，需要重启 Finder 扩展，可以通过重启电脑来重启插件，这样比较繁琐，有两个比较简单的方法：
+
+方法1：在命令行中执行 `killall Finder` 重启 Finder  
+方法2：通过系统的 `强制退出应用` 功能，重新加载 Finder，通过 <kbd>⌘</kbd><kbd>⌥</kbd><kbd>esc</kbd> 快捷键打开`强制退出应用`界面，找到 Finder 应用，点击下面 `Relaunch` 按钮。
+
+### 频繁弹出授权问题
+
+在应用设置用 `常规` -> `完全磁盘访问` -> 点击 `授权` 将应用添加到 `完全磁盘访问` 列表中
 
 <!--idoc:config:
 site: RightMenu Master

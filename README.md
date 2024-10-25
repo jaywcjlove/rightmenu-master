@@ -8,6 +8,7 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.zh.md">中文</a> • 
+		<a href="#frequently-asked-questions">FAQ</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+RightMenu+Master">Contact & Support</a>
   </p>
   <p>
@@ -44,6 +45,19 @@ Finder lacks a convenient way to create new files in specific formats, but Right
 **Copy Functionality**
 
 RightMenu Master provides the ability to copy the full file path, file name, or folder name, allowing you to quickly copy files or folders, further simplifying your daily operations.
+
+## Frequently Asked Questions
+
+### Finder Extension Partial Menu Not Displaying Issue
+
+When permissions are passively confirmed and then denied, reauthorizing permissions may cause the menu to not display. In this case, you need to restart the Finder extension. Restarting the computer can achieve this, but it’s cumbersome. Here are two simpler methods:
+
+Method 1: Execute `killall Finder` in the command line to restart Finder.  
+Method 2: Use the system’s `Force Quit Applications` feature to reload Finder. Open the `Force Quit Applications` window using the shortcut <kbd>⌘</kbd><kbd>⌥</kbd><kbd>esc</kbd>, find the `Finder` application, and click the `Relaunch` button below.
+
+### Frequent Authorization Pop-Up Issues
+
+In the application settings, go to `General` -> `Full Disk Access` -> Click to `Grant` to add the application to the `Full Disk Access` list.
 
 <!--idoc:config:
 site: RightMenu Master
