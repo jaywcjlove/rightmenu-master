@@ -32,17 +32,19 @@ RightMenu Master — An exceptional Finder right-click menu enhancement tool tha
 
 RightMenu Master is a highly configurable Finder extension that adds powerful functionality to the right-click menu and toolbar in Finder. It allows for quicker and more convenient operations such as moving and copying files, as well as creating new documents. The application also comes with several practical preset operations, further enhancing your work efficiency.
 
-![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
+![RightMenu Master Screenshot 4](./assets/screenshots-4.png)
 
-### Key Features
-
-![RightMenu Master Screenshot 3](./assets/screenshots-3.png)
+### Main Features
 
 **■ Create New Files**
 
 Finder lacks a convenient way to create new files in specific formats, but RightMenu Master makes it easy to do so with just one or two clicks. Additionally, you can upload custom templates to create new files in specific formats, improving efficiency.
 
+![RightMenu Master Screenshot 3](./assets/screenshots-3.png)
+
 **■ Quick Preview with Syntax Highlighting**
+
+![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
 
 A quick preview extension is provided for viewing source text files with syntax highlighting. This extension handles supported file formats via Uniform Type Identifiers (UTI), rather than relying solely on file extensions. The UTI definitions include a list of associated file extensions and MIME types.
 
