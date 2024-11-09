@@ -38,25 +38,37 @@ RightMenu Master is a highly configurable Finder extension that adds powerful fu
 
 ![RightMenu Master Screenshot 3](./assets/screenshots-3.png)
 
-**■ Create New File**
+**■ Create New Files**
 
-Finder lacks an easy way to create new files in specific formats. RightMenu Master simplifies this, allowing you to create files with just one or two clicks. You can also upload custom templates to create files in specific formats, boosting your productivity.
+Finder lacks a convenient way to create new files in specific formats, but RightMenu Master makes it easy to do so with just one or two clicks. Additionally, you can upload custom templates to create new files in specific formats, improving efficiency.
 
-**■ Copy Functionality**
+**■ Quick Preview with Syntax Highlighting**
 
-RightMenu Master offers a variety of copy options to make file management more convenient. You can quickly copy the full file path, file name, or folder name, or even duplicate files and folders, greatly enhancing flexibility and efficiency.
+A quick preview extension is provided for viewing source text files with syntax highlighting. This extension handles supported file formats via Uniform Type Identifiers (UTI), rather than relying solely on file extensions. The UTI definitions include a list of associated file extensions and MIME types.
+
+**■ Frequently Used Folders**
+
+Supports custom frequently used folders for quick access to directories or to open a new terminal window directly in a specific folder.
+
+**■ Create Terminal Window Here**
+
+Supports opening a new terminal window in the current folder using Terminal or iTerm, making it easy to access the terminal in any directory.
+
+**■ Copy Features**
+
+RightMenu Master offers various copy functionalities to make file operations more convenient. You can quickly copy the full file path, file name, or folder name, or even copy files/folders directly, significantly improving the flexibility and efficiency of file management.
 
 **■ Copy File Path**
 
-Quickly obtain the absolute path of a file for easy reference in other applications, without the need for tedious manual navigation.
+Quickly obtain the absolute path of a file for easy reference in other apps without needing to perform cumbersome manual operations.
 
 **■ Copy Folder/File Name**
 
-Easily copy the folder or file name to the clipboard, facilitating quick sharing and reference of names.
+Supports copying folder names or file names to the clipboard for easy transfer and reference.
 
 **■ Direct Delete**
 
-With RightMenu Master, you can directly delete files or folders, eliminating multiple steps in Finder and making deletion faster and more convenient.
+With RightMenu Master, you can delete files or folders directly, saving time by skipping multiple steps in Finder, making the delete operation more efficient and convenient.
 
 ## Frequently Asked Questions
 
