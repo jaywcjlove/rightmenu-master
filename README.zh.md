@@ -44,12 +44,14 @@ Finder 缺乏便捷的方式来创建特定格式的新文件，而 RightMenu Ma
 
 ![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
 
-提供了一种快速查看扩展，可用于预览带有语法高亮的源文本文件。该扩展通过统一类型标识符 (UTI) 来处理支持的文件格式，而不仅仅依赖于文件扩展名。在 UTI 的定义中包含了与其关联的文件扩展名和 MIME 类型列表。
+提供了一种快速查看扩展，可用于预览带有语法高亮的源文本文件。该扩展通过[统一类型标识符 (UTI)](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/understanding_utis/understand_utis_intro/understand_utis_intro.html) 来处理支持的文件格式，而不仅仅依赖于文件扩展名。在 UTI 的定义中包含了与其关联的文件扩展名和 MIME 类型列表。
 
 **■ 常用文件夹**
+
 支持自定义常用文件夹，可快速访问目录或在指定文件夹中直接新建终端窗口。
 
 **■ 在此处新建终端窗口**
+
 支持使用 Terminal 或 iTerm 终端，快速在当前文件夹中打开新终端窗口。
 
 **■ 复制功能**
