@@ -83,6 +83,16 @@ RightMenu Master 提供了多样的复制功能，让文件操作更加便捷。
 
 在应用设置用 `常规` -> `完全磁盘访问` -> 点击 `授权` 将应用添加到 `完全磁盘访问` 列表中
 
+### 启用 Finder 扩展
+
+如果提示您需要启用插件，你需要在命令行中运行下面命令来启用 Finder 扩展。
+
+```shell
+pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
+  osascript -e 'quit app id "com.wangchujiang.rightmenu-master"' \
+  osascript -e 'tell application id "com.wangchujiang.rightmenu-master" to activate'
+```
+
 <!--idoc:config:
 site: RightMenu Master
 title: 卓越的 Finder 右键菜单增强工具，让您的右键菜单更加强大。

@@ -85,6 +85,16 @@ When permissions are passively confirmed and then denied, reauthorizing permissi
 
 In the application settings, go to `General` -> `Full Disk Access` -> Click to `Grant` to add the application to the `Full Disk Access` list.
 
+### Enable Finder Extension
+
+If you are prompted to enable the plugin, you need to run the following command in the terminal to enable the Finder extension.
+
+```shell
+pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
+  osascript -e 'quit app id "com.wangchujiang.rightmenu-master"' \
+  osascript -e 'tell application id "com.wangchujiang.rightmenu-master" to activate'
+```
+
 <!--idoc:config:
 site: RightMenu Master
 title: An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
