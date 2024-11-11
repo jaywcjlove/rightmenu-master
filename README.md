@@ -91,8 +91,8 @@ If you are prompted to enable the plugin, you need to run the following command 
 
 ```shell
 pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
-  osascript -e 'quit app id "com.wangchujiang.rightmenu-master"' \
-  osascript -e 'tell application id "com.wangchujiang.rightmenu-master" to activate'
+  && osascript -e 'quit app id "com.wangchujiang.rightmenu-master"' \
+  && osascript -e 'tell application id "com.wangchujiang.rightmenu-master" to activate'
 ```
 
 <!--idoc:config:

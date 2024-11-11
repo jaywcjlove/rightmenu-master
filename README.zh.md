@@ -89,8 +89,8 @@ RightMenu Master 提供了多样的复制功能，让文件操作更加便捷。
 
 ```shell
 pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
-  osascript -e 'quit app id "com.wangchujiang.rightmenu-master"' \
-  osascript -e 'tell application id "com.wangchujiang.rightmenu-master" to activate'
+  && osascript -e 'quit app id "com.wangchujiang.rightmenu-master"' \
+  && osascript -e 'tell application id "com.wangchujiang.rightmenu-master" to activate'
 ```
 
 <!--idoc:config:
