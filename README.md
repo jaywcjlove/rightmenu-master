@@ -52,9 +52,9 @@ A quick preview extension is provided for viewing source text files with syntax 
 
 Supports custom frequently used folders for quick access to directories or to open a new terminal window directly in a specific folder.
 
-**■ Create Terminal Window Here**
+**■ Common Apps**
 
-Supports opening a new terminal window in the current folder using Terminal or iTerm, making it easy to access the terminal in any directory.
+Supports various editors and command-line tools (Terminal/iTerm) to quickly open the current directory, enhancing operational efficiency.
 
 **■ Copy Features**
 
