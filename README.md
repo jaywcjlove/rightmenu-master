@@ -1,3 +1,8 @@
+<!--idoc:ignore:start-->
+> [!TIP]
+> Statement: This project is not open-source. This repository serves as the official website for collecting issues and user feedback. This approach is purely to save costs, as the app cannot pass the review without an official website.
+<!--idoc:ignore:end-->
+
 <div align="center">
   <br />
   <br />
