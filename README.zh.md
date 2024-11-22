@@ -94,7 +94,7 @@ RightMenu Master 提供了多样的复制功能，让文件操作更加便捷。
 
 ### 启用 Finder 扩展
 
-如果提示您需要启用插件，你需要在命令行中运行下面命令来启用 Finder 扩展。
+如果提示需要启用插件，您可以在命令行中运行以下命令来启用 Finder 扩展。这是由于 macOS 15+ 存在一个设置界面消失的 bug，已在 macOS 15.2 中[修复](https://forums.developer.apple.com/forums/thread/756711?answerId=812519022#812519022)。
 
 ```shell
 pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \

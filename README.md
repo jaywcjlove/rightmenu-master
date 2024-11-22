@@ -96,7 +96,7 @@ In the application settings, go to `General` -> `Full Disk Access` -> Click to `
 
 ### Enable Finder Extension
 
-If you are prompted to enable the plugin, you need to run the following command in the terminal to enable the Finder extension.
+If you are prompted to enable the plugin, you can run the following command in the terminal to enable the Finder extension. This issue is caused by a bug in macOS 15+ where the settings interface disappeared. It has been [fixed](https://forums.developer.apple.com/forums/thread/756711?answerId=812519022#812519022) in macOS 15.2.
 
 ```shell
 pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
