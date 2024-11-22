@@ -106,7 +106,7 @@
         <h3 id="频繁弹出授权问题"><a aria-hidden="true" tabindex="-1" href="#频繁弹出授权问题" class="anchor"><span class="icon icon-link"></span></a>频繁弹出授权问题</h3>
         <p>在应用设置用 <code>常规</code> -> <code>完全磁盘访问</code> -> 点击 <code>授权</code> 将应用添加到 <code>完全磁盘访问</code> 列表中</p>
         <h3 id="启用-finder-扩展"><a aria-hidden="true" tabindex="-1" href="#启用-finder-扩展" class="anchor"><span class="icon icon-link"></span></a>启用 Finder 扩展</h3>
-        <p>如果提示您需要启用插件，你需要在命令行中运行下面命令来启用 Finder 扩展。</p>
+        <p>如果提示需要启用插件，您可以在命令行中运行以下命令来启用 Finder 扩展。这是由于 macOS 15+ 存在一个设置界面消失的 bug，已在 macOS 15.2 中<a href="https://forums.developer.apple.com/forums/thread/756711?answerId=812519022#812519022">修复</a>。</p>
         <pre class="language-shell"><code class="language-shell code-highlight"><span class="code-line line-number" line="1">pluginkit <span class="token parameter variable">-e</span> use <span class="token parameter variable">-i</span> com.wangchujiang.rightmenu-master.sync <span class="token punctuation">\</span>
 </span><span class="code-line line-number" line="2">  <span class="token operator">&#x26;&#x26;</span> osascript <span class="token parameter variable">-e</span> <span class="token string">'quit app id "com.wangchujiang.rightmenu-master"'</span> <span class="token punctuation">\</span>
 </span><span class="code-line line-number" line="3">  <span class="token operator">&#x26;&#x26;</span> osascript <span class="token parameter variable">-e</span> <span class="token string">'tell application id "com.wangchujiang.rightmenu-master" to activate'</span>
