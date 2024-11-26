@@ -55,6 +55,8 @@ Finder 缺乏便捷的方式来创建特定格式的新文件，而 RightMenu Ma
 
 支持自定义常用文件夹，可快速访问目录或在指定文件夹中直接新建终端窗口。
 
+![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
+
 **■ 文件夹访问历史**
 
 默认记录 Finder 访问过的文件夹历史路径，方便快速查找之前访问过的目录。

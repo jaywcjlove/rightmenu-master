@@ -57,6 +57,8 @@ A quick preview extension is provided for viewing source text files with syntax 
 
 Supports custom frequently used folders for quick access to directories or to open a new terminal window directly in a specific folder.
 
+![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
+
 **■ Folder Access History**
 
 By default, Finder records the history of accessed folders, making it easy to quickly find previously visited directories.
