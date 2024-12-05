@@ -12,7 +12,8 @@
   <p>
     <a href="./README.md">English</a> • 
 		<a href="#常见问题解答">常见问题</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+Quick+RSS">联系&支持</a>
+    <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+Quick+RSS">联系&支持</a> • 
+    <a href="https://github.com/jaywcjlove/rightmenu-master/releases">变更日志</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="PasteQuick for macOS">
@@ -31,13 +32,13 @@ RightMenu Master —— 卓越的 Finder 右键菜单增强工具，让您的右
 
 ![RightMenu Master Screenshot 1](./assets/screenshots-1.png)
 
-### Mac 用户必备应用！
+## Mac 用户必备应用！
 
 RightMenu Master 是一款高度可配置的 Finder 扩展，能够为 Finder 的右键菜单和工具栏添加强大的操作功能。它让移动和复制文件、创建新文档等操作更加快捷、方便。应用还内置了多个实用的预设操作，进一步提升您的工作效率。
 
 ![RightMenu Master Screenshot 4](./assets/screenshots-4.png)
 
-### 主要功能
+## 主要功能
 
 **■ 创建新文件**
 

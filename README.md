@@ -14,7 +14,8 @@
   <p>
     <a href="./README.zh.md">中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+RightMenu+Master">Contact & Support</a>
+    <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+RightMenu+Master">Contact & Support</a> • 
+    <a href="https://github.com/jaywcjlove/rightmenu-master/releases">Changelog</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="RightMenu Master for macOS">
@@ -33,13 +34,13 @@ RightMenu Master — An exceptional Finder right-click menu enhancement tool tha
 
 ![RightMenu Master Screenshot 1](./assets/screenshots-1.png)
 
-### A Must-Have Application for Mac Users!
+## A Must-Have Application for Mac Users!
 
 RightMenu Master is a highly configurable Finder extension that adds powerful functionality to the right-click menu and toolbar in Finder. It allows for quicker and more convenient operations such as moving and copying files, as well as creating new documents. The application also comes with several practical preset operations, further enhancing your work efficiency.
 
 ![RightMenu Master Screenshot 4](./assets/screenshots-4.png)
 
-### Main Features
+## Main Features
 
 **■ Create New Files**
 
