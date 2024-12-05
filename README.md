@@ -54,6 +54,12 @@ Finder lacks a convenient way to create new files in specific formats, but Right
 
 A quick preview extension is provided for viewing source text files with syntax highlighting. This extension handles supported file formats via [Uniform Type Identifiers (UTI)](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/understanding_utis/understand_utis_intro/understand_utis_intro.html), rather than relying solely on file extensions. The UTI definitions include a list of associated file extensions and MIME types.
 
+**■ File QR Code Sharing**
+
+Right-click on a file to generate a local network download link and a QR code. Scan the QR code to download the folder.
+
+![RightMenu Master Screenshot 6](./assets/screenshots-6.png)
+
 **■ Frequently Used Folders**
 
 Supports custom frequently used folders for quick access to directories or to open a new terminal window directly in a specific folder.
