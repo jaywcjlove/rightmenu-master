@@ -48,9 +48,9 @@ Finder 缺乏便捷的方式来创建特定格式的新文件，而 RightMenu Ma
 
 **■ 快速预览支持代码高亮**
 
-![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
+提供了一种快速查看扩展，可用于预览带有语法高亮的源文本文件。该扩展通过统一类型标识符 (UTI) 来处理支持的文件格式，而不仅仅依赖于文件扩展名。在 UTI 的定义中包含了与其关联的文件扩展名和 MIME 类型列表。
 
-提供了一种快速查看扩展，可用于预览带有语法高亮的源文本文件。该扩展通过[统一类型标识符 (UTI)](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/understanding_utis/understand_utis_intro/understand_utis_intro.html) 来处理支持的文件格式，而不仅仅依赖于文件扩展名。在 UTI 的定义中包含了与其关联的文件扩展名和 MIME 类型列表。
+![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
 
 **■ 文件二维码分享**
 
@@ -60,13 +60,13 @@ Finder 缺乏便捷的方式来创建特定格式的新文件，而 RightMenu Ma
 
 **■ 常用文件夹**
 
-支持自定义常用文件夹，可快速访问目录或在指定文件夹中直接新建终端窗口。
+支持自定义常用文件夹，用户可以快速访问目录或在指定文件夹中直接新建终端窗口。此外，菜单栏提供了访问常用文件夹的功能，并支持快速访问子文件夹。
 
 ![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
 
 **■ 文件夹访问历史**
 
-默认记录 Finder 访问过的文件夹历史路径，方便快速查找之前访问过的目录。
+Finder 默认记录访问过的文件夹历史路径，方便快速查找之前访问过的目录。菜单栏也提供了访问文件夹历史的功能，并支持快速访问子文件夹。
 
 **■ 常用应用**
 
@@ -83,6 +83,12 @@ RightMenu Master 提供了多样的复制功能，让文件操作更加便捷。
 **■ 拷贝文件夹/文件名**
 
 支持复制文件夹名称或文件名称到剪贴板，便于文件名的快速传输与引用。
+
+**■ 快捷粘贴**
+
+支持将剪贴板中的图片快速粘贴到 Finder 文件夹中。例如，用户可以在浏览器中复制图片，然后直接粘贴到 Finder 文件夹中。
+
+![RightMenu Master Screenshot 5](./assets/screenshots-7.png)
 
 **■ 直接删除**
 

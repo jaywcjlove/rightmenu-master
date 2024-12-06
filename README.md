@@ -50,9 +50,9 @@ Finder lacks a convenient way to create new files in specific formats, but Right
 
 **■ Quick Preview with Syntax Highlighting**
 
-![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
+A quick preview extension is provided for viewing source text files with syntax highlighting. This extension handles supported file formats via Uniform Type Identifiers (UTI), rather than relying solely on file extensions. The UTI definitions include a list of associated file extensions and MIME types.
 
-A quick preview extension is provided for viewing source text files with syntax highlighting. This extension handles supported file formats via [Uniform Type Identifiers (UTI)](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/understanding_utis/understand_utis_intro/understand_utis_intro.html), rather than relying solely on file extensions. The UTI definitions include a list of associated file extensions and MIME types.
+![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
 
 **■ File QR Code Sharing**
 
@@ -60,17 +60,17 @@ Right-click on a file to generate a local network download link and a QR code. S
 
 ![RightMenu Master Screenshot 6](./assets/screenshots-6.png)
 
-**■ Frequently Used Folders**
+**■ Common Folders**
 
-Supports custom frequently used folders for quick access to directories or to open a new terminal window directly in a specific folder.
+Supports custom common folders, allowing users to quickly access directories or open a new terminal window in a specified folder. Additionally, the menu bar provides access to common folders and supports quick access to subfolders.
 
 ![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
 
 **■ Folder Access History**
 
-By default, Finder records the history of accessed folders, making it easy to quickly find previously visited directories.
+Finder automatically records the history of accessed folders, making it easy to quickly find previously visited directories. The menu bar also provides access to folder history and supports quick access to subfolders.
 
-**■ Common Apps**
+**■ Common Applications**
 
 Supports various editors and command-line tools (Terminal/iTerm) to quickly open the current directory, enhancing operational efficiency.
 
@@ -85,6 +85,12 @@ Quickly obtain the absolute path of a file for easy reference in other apps with
 **■ Copy Folder/File Name**
 
 Supports copying folder names or file names to the clipboard for easy transfer and reference.
+
+**■ Quick Paste**
+
+Allows quickly pasting images from the clipboard into a Finder folder. For example, you can copy an image from a browser and directly paste it into a Finder folder.
+
+![RightMenu Master Screenshot 5](./assets/screenshots-7.png)
 
 **■ Direct Delete**
 
