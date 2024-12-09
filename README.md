@@ -39,6 +39,11 @@ RightMenu Master — An exceptional Finder right-click menu enhancement tool tha
 RightMenu Master is a highly configurable Finder extension that adds powerful functionality to the right-click menu and toolbar in Finder. It allows for quicker and more convenient operations such as moving and copying files, as well as creating new documents. The application also comes with several practical preset operations, further enhancing your work efficiency.
 
 ![RightMenu Master Screenshot 4](./assets/screenshots-4.png)
+![RightMenu Master Screenshot 3](./assets/screenshots-3.png)
+![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
+![RightMenu Master Screenshot 6](./assets/screenshots-6.png)
+![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
+![RightMenu Master Screenshot 7](./assets/screenshots-7.png)
 
 ## Main Features
 
@@ -46,25 +51,17 @@ RightMenu Master is a highly configurable Finder extension that adds powerful fu
 
 Finder lacks a convenient way to create new files in specific formats, but RightMenu Master makes it easy to do so with just one or two clicks. Additionally, you can upload custom templates to create new files in specific formats, improving efficiency.
 
-![RightMenu Master Screenshot 3](./assets/screenshots-3.png)
-
 **■ Quick Preview with Syntax Highlighting**
 
 A quick preview extension is provided for viewing source text files with syntax highlighting. This extension handles supported file formats via Uniform Type Identifiers (UTI), rather than relying solely on file extensions. The UTI definitions include a list of associated file extensions and MIME types.
-
-![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
 
 **■ File QR Code Sharing**
 
 Right-click on a file to generate a local network download link and a QR code. Scan the QR code to download the folder.
 
-![RightMenu Master Screenshot 6](./assets/screenshots-6.png)
-
 **■ Common Folders**
 
 Supports custom common folders, allowing users to quickly access directories or open a new terminal window in a specified folder. Additionally, the menu bar provides access to common folders and supports quick access to subfolders.
-
-![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
 
 **■ Folder Access History**
 
@@ -90,11 +87,13 @@ Supports copying folder names or file names to the clipboard for easy transfer a
 
 Allows quickly pasting images from the clipboard into a Finder folder. For example, you can copy an image from a browser and directly paste it into a Finder folder.
 
-![RightMenu Master Screenshot 5](./assets/screenshots-7.png)
-
 **■ Direct Delete**
 
 With RightMenu Master, you can delete files or folders directly, saving time by skipping multiple steps in Finder, making the delete operation more efficient and convenient.
+
+**■ Detect and add 'Open Remote Git URL' menu**
+
+Right-clicking in a Finder folder automatically detects Git folders and adds the 'Open Remote URL' menu. Clicking the menu will open the Git repository directly in the browser.
 
 ## Frequently Asked Questions
 
