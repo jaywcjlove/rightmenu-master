@@ -44,6 +44,7 @@ RightMenu Master is a highly configurable Finder extension that adds powerful fu
 ![RightMenu Master Screenshot 6](./assets/screenshots-6.png)
 ![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
 ![RightMenu Master Screenshot 7](./assets/screenshots-7.png)
+![RightMenu Master Screenshot 8](./assets/screenshots-8.png)
 
 ## Main Features
 
@@ -59,7 +60,7 @@ A quick preview extension is provided for viewing source text files with syntax 
 
 Right-click on a file to generate a local network download link and a QR code. Scan the QR code to download the folder.
 
-**■ Common Folders**
+**■ Common Folde
 
 Supports custom common folders, allowing users to quickly access directories or open a new terminal window in a specified folder. Additionally, the menu bar provides access to common folders and supports quick access to subfolders.
 
@@ -94,6 +95,10 @@ With RightMenu Master, you can delete files or folders directly, saving time by 
 **■ Detect and add 'Open Remote Git URL' menu**
 
 Right-clicking in a Finder folder automatically detects Git folders and adds the 'Open Remote URL' menu. Clicking the menu will open the Git repository directly in the browser.
+
+**■ Show Total Size**
+
+In Finder, when multiple files or folders are selected, the context menu can display the total size of these items. Additionally, it will list the size of each file or folder individually.
 
 ## Frequently Asked Questions
 

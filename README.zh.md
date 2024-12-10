@@ -42,6 +42,7 @@ RightMenu Master 是一款高度可配置的 Finder 扩展，能够为 Finder �
 ![RightMenu Master Screenshot 6](./assets/screenshots-6.png)
 ![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
 ![RightMenu Master Screenshot 7](./assets/screenshots-7.png)
+![RightMenu Master Screenshot 8](./assets/screenshots-8.png)
 
 ## 主要功能
 
@@ -92,6 +93,10 @@ RightMenu Master 提供了多样的复制功能，让文件操作更加便捷。
 **■ 识别并添加“打开远程 Git URL”菜单**
 
 在 Finder 文件夹中右键点击时，会自动检测 Git 文件夹，并添加“打开远程 URL”菜单。点击菜单即可直接在浏览器中打开 Git 仓库。
+
+**■ 显示总大小**
+
+在 Finder 中选中多个文件或文件夹后，右键菜单可以显示这些项目的总大小。同时，还会以列表的形式展示每个文件或文件夹的大小。
 
 ## 常见问题解答
 
