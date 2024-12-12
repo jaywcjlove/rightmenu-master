@@ -45,6 +45,7 @@ RightMenu Master is a highly configurable Finder extension that adds powerful fu
 ![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
 ![RightMenu Master Screenshot 7](./assets/screenshots-7.png)
 ![RightMenu Master Screenshot 8](./assets/screenshots-8.png)
+![RightMenu Master Screenshot 9](./assets/screenshots-9.png)
 
 ## Main Features
 
@@ -99,6 +100,10 @@ Right-clicking in a Finder folder automatically detects Git folders and adds the
 **■ Show Total Size**
 
 In Finder, when multiple files or folders are selected, the context menu can display the total size of these items. Additionally, it will list the size of each file or folder individually.
+
+**■  Set folder icon color**
+
+Quickly change the folder icon color by selecting a color from the right-click menu. You can also customize the color through the settings interface.
 
 ## Frequently Asked Questions
 
