@@ -61,7 +61,7 @@ A quick preview extension is provided for viewing source text files with syntax 
 
 Right-click on a file to generate a local network download link and a QR code. Scan the QR code to download the folder.
 
-**■ Common Folde
+**■ Common Folde**
 
 Supports custom common folders, allowing users to quickly access directories or open a new terminal window in a specified folder. Additionally, the menu bar provides access to common folders and supports quick access to subfolders.
 
