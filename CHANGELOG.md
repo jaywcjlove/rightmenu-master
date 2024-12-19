@@ -1,9 +1,11 @@
 Changelog
 ===
 
-## v1.9.0
+<a target="_blank" href="https://apps.apple.com/app/iconize-folder/id6478772538" title="Iconize Folder for macOS">
+  <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+</a>
 
-### Changelog
+## v1.9.0
 
 1. fix: Improved the authorization flow.  
 2. feat: Added recognition for Xcode projects in the folder list.  
