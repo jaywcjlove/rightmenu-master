@@ -129,7 +129,6 @@ pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
 ```
 
 <!--idoc:config:
-site: RightMenu Master
 title: An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
 keywords: RightMenu, Finder, macOS, application, file management, create new file, copy functionality, enhancement tool
 -->
