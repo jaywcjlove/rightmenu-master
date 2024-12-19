@@ -16,10 +16,16 @@ jobs:
           node-version: 20
           registry-url: 'https://registry.npmjs.org'
 
+      - name: Create Tag
+        id: create_tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          test: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
+
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "RightMenu Master"
+          site: "RightMenu Master {{version:${{ steps.create_tag.outputs.version }}}}"
           description: An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
           keywords: RightMenu, Finder, macOS, application, file management, create new file, copy functionality, enhancement tool
           favicon: assets/logo.png
