@@ -13,7 +13,7 @@
     <a href="./README.md">English</a> • 
 		<a href="#常见问题解答">常见问题</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+Quick+RSS">联系&支持</a> • 
-    <a href="https://github.com/jaywcjlove/rightmenu-master/releases">变更日志</a>
+    <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/releases">变更日志</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="PasteQuick for macOS">
