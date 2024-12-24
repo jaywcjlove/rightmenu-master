@@ -49,61 +49,23 @@ RightMenu Master is a highly configurable Finder extension that adds powerful fu
 
 ## Main Features
 
-**■ Create New Files**
-
-Finder lacks a convenient way to create new files in specific formats, but RightMenu Master makes it easy to do so with just one or two clicks. Additionally, you can upload custom templates to create new files in specific formats, improving efficiency.
-
-**■ Quick Preview with Syntax Highlighting**
-
-A quick preview extension is provided for viewing source text files with syntax highlighting. This extension handles supported file formats via Uniform Type Identifiers (UTI), rather than relying solely on file extensions. The UTI definitions include a list of associated file extensions and MIME types.
-
-**■ File QR Code Sharing**
-
-Right-click on a file to generate a local network download link and a QR code. Scan the QR code to download the folder.
-
-**■ Common Folde**
-
-Supports custom common folders, allowing users to quickly access directories or open a new terminal window in a specified folder. Additionally, the menu bar provides access to common folders and supports quick access to subfolders.
-
-**■ Folder Access History**
-
-Finder automatically records the history of accessed folders, making it easy to quickly find previously visited directories. The menu bar also provides access to folder history and supports quick access to subfolders.
-
-**■ Common Applications**
-
-Supports various editors and command-line tools (Terminal/iTerm) to quickly open the current directory, enhancing operational efficiency.
-
-**■ Copy Features**
-
-RightMenu Master offers various copy functionalities to make file operations more convenient. You can quickly copy the full file path, file name, or folder name, or even copy files/folders directly, significantly improving the flexibility and efficiency of file management.
-
-**■ Copy File Path**
-
-Quickly obtain the absolute path of a file for easy reference in other apps without needing to perform cumbersome manual operations.
-
-**■ Copy Folder/File Name**
-
-Supports copying folder names or file names to the clipboard for easy transfer and reference.
-
-**■ Quick Paste**
-
-Allows quickly pasting images from the clipboard into a Finder folder. For example, you can copy an image from a browser and directly paste it into a Finder folder.
-
-**■ Direct Delete**
-
-With RightMenu Master, you can delete files or folders directly, saving time by skipping multiple steps in Finder, making the delete operation more efficient and convenient.
-
-**■ Detect and add 'Open Remote Git URL' menu**
-
-Right-clicking in a Finder folder automatically detects Git folders and adds the 'Open Remote URL' menu. Clicking the menu will open the Git repository directly in the browser.
-
-**■ Show Total Size**
-
-In Finder, when multiple files or folders are selected, the context menu can display the total size of these items. Additionally, it will list the size of each file or folder individually.
-
-**■  Set folder icon color**
-
-Quickly change the folder icon color by selecting a color from the right-click menu. You can also customize the color through the settings interface.
+- **Create New File:** Easily create new files in specific formats and upload custom templates.
+- **Quick Preview with Syntax Highlighting:** Quickly preview code files with syntax highlighting.
+- **File QR Code Sharing:** Quickly share files via QR codes and LAN download links.
+- **Favorite Folders:** Customize favorite folders for quick access or to open a terminal window in a specific folder.
+- **Folder Access History:** Record and quickly access previously visited folders.
+- **Common Apps:** Quickly open your favorite editors or command-line tools (Terminal/iTerm).
+- **Copy Features:** Provide various copy functions to simplify file path and name management.
+- **Copy File Path:** Quickly copy the absolute path of a file.
+- **Copy Folder/File Name:** Quickly copy the name of a folder or file.
+- **Quick Paste:** Quickly paste images into Finder folders.
+- **Direct Delete:** Quickly delete files or folders, simplifying the operation.
+- **Identify and Add "Open Remote Git URL" Menu:** Automatically detect Git folders and add the "Open Remote URL" menu.
+- **Show Total Size:** Show the total size and individual sizes of selected files or folders.
+- **Set Folder Icon Color:** Quickly change or customize folder icon colors.
+- **Cut and Paste Menu:** Add cut and paste functionality to enhance file management flexibility.
+- **Create Shortcut on Desktop:** Create symbolic links (shortcuts) to files on the desktop.
+- **Menu Bar Quick Navigation:** Quickly access favorite folder apps via the menu bar, improving operational efficiency.
 
 ## Frequently Asked Questions
 
