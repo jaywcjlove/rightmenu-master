@@ -5,6 +5,21 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## v1.10.0
+
+1. fix: fix issue with jumping to enable Finder extension on macOS 15.2
+2. fix: fix issue with title not appearing on macOS 15.2
+3. feat: add Cut and Paste menu
+4. feat: add sendToDesktopSymlink menu
+5. fix: resolve issue with default window opening position
+
+---
+
+1. 修复：修复 macOS 15.2 上跳转到启用 Finder 扩展的问题
+2. 修复：修复 macOS 15.2 上标题不显示的问题
+3. 新增：添加剪切和粘贴菜单
+4. 新增：添加发送到桌面符号链接菜单
+
 ## v1.9.0
 
 1. fix: Improved the authorization flow.  
