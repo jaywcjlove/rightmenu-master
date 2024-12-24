@@ -5,7 +5,7 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## v1.10.0
+## [v1.10.0](https://github.com/jaywcjlove/rightmenu-master/releases)
 
 1. fix: fix issue with jumping to enable Finder extension on macOS 15.2
 2. fix: fix issue with title not appearing on macOS 15.2
