@@ -49,23 +49,27 @@ RightMenu Master is a highly configurable Finder extension that adds powerful fu
 
 ## Main Features
 
-- **Create New File:** Easily create new files in specific formats and upload custom templates.
-- **Quick Preview with Syntax Highlighting:** Quickly preview code files with syntax highlighting.
-- **File QR Code Sharing:** Quickly share files via QR codes and LAN download links.
-- **Favorite Folders:** Customize favorite folders for quick access or to open a terminal window in a specific folder.
-- **Folder Access History:** Record and quickly access previously visited folders.
-- **Common Apps:** Quickly open your favorite editors or command-line tools (Terminal/iTerm).
-- **Copy Features:** Provide various copy functions to simplify file path and name management.
-- **Copy File Path:** Quickly copy the absolute path of a file.
-- **Copy Folder/File Name:** Quickly copy the name of a folder or file.
-- **Quick Paste:** Quickly paste images into Finder folders.
-- **Direct Delete:** Quickly delete files or folders, simplifying the operation.
-- **Identify and Add "Open Remote Git URL" Menu:** Automatically detect Git folders and add the "Open Remote URL" menu.
-- **Show Total Size:** Show the total size and individual sizes of selected files or folders.
-- **Set Folder Icon Color:** Quickly change or customize folder icon colors.
-- **Cut and Paste Menu:** Add cut and paste functionality to enhance file management flexibility.
-- **Create Shortcut on Desktop:** Create symbolic links (shortcuts) to files on the desktop.
-- **Menu Bar Quick Navigation:** Quickly access favorite folder apps via the menu bar, improving operational efficiency.
+- **Create New File**: Easily create new files in specific formats and upload custom templates.
+- **Quick Preview with Code Highlighting**: Support for quick preview of code files with syntax highlighting.
+- **File QR Code Sharing**: Quickly share files via QR code and local network links.
+- **Frequently Used Folders**: Customize frequently used folders for quick access or to create new terminal windows.
+- **Folder Access History**: Record and quickly access the history paths of folders.
+- **Common Applications**: Quickly open commonly used editors or command line tools (Terminal/iTerm).
+- **Copy Functions**: Provide various copy functions to simplify file path and name management.
+- **Copy File Path**: Quickly copy the absolute path of a file.
+- **Copy Folder/File Name**: Support quick copying of folder or file names.
+- **Quick Paste**: Support quickly pasting images into Finder folders.
+- **Direct Delete**: Quickly delete files or folders to simplify operations.
+- **Recognize and Add "Open Remote Git URL" Menu**: Automatically detect and add a menu to open the remote URL of Git repositories.
+- **Show Total Size**: Display the total size and individual sizes of selected multiple files or folders.
+- **Set Folder Icon Color**: Quickly change or customize the color of folder icons.
+- **Cut and Paste Menu**: Cut(⌘X) and paste(⌘V) functions to enhance file operation flexibility.
+- **Create Desktop Shortcut**: Send files to the desktop as symbolic links (shortcuts).
+- **Menu Bar Quick Navigation**: Quickly access frequently used folders and applications through the menu bar to enhance operational efficiency.
+- **Copy To**: Allow quick copying of files or folders to a specified location.
+- **Move To**: Allow quick moving of files or folders to a specified location.
+- **Convert To**: Provide image format conversion functions.
+- **Create icns Icon**: Support quick navigation for creating icns icon files.
 
 ## Frequently Asked Questions
 

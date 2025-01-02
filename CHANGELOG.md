@@ -5,7 +5,29 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.10.0](https://github.com/jaywcjlove/rightmenu-master/releases)
+## [v1.11.0](https://github.com/jaywcjlove/rightmenu-master/releases)
+
+1. feat: Add `copyTo` menu.
+2. feat: Add `reset folder icon` menu.
+3. feat: Add history tracking for target folders in move operations.
+4. feat: Add `moveTo` menu.
+5. feat: Add `create icns icon` menu.
+6. feat: Add `convertTo` menu.
+7. fix: Fix issue with selected files.
+8. feat: Add shortcuts ⌘X/⌘V for cut and paste.
+
+---
+
+1. 功能: 添加 `复制到` 菜单。
+2. 功能: 添加 `重置文件夹图标` 菜单。
+3. 功能: 在移动操作中添加目标文件夹的历史记录。
+4. 功能: 添加 `移动到` 菜单。
+5. 功能: 添加 `创建 icns 图标` 菜单。
+6. 功能: 添加 `转为格式` 菜单。
+7. 修复: 修复已选文件的问题。
+8. 功能: 添加快捷键 ⌘X/⌘V 用于剪切和粘贴。
+
+## [v1.10.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.10.0)
 
 1. fix: fix issue with jumping to enable Finder extension on macOS 15.2
 2. fix: fix issue with title not appearing on macOS 15.2
