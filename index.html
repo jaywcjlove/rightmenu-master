@@ -4,38 +4,38 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful. RightMenu Master v1.11.0</title>
+    <title>An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful. RightMenu Master 1.11.0</title>
     <meta name="description" content="RightMenu Master — An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerfu">
     <meta name="keywords" content="RightMenu, Finder, macOS, application, file management, create new file, copy functionality, enhancement tool">
     <meta name="author" content="Kenny Wong">
-    <meta property="og:site_name" content="RightMenu Master <sup>v1.11.0</sup>">
+    <meta property="og:site_name" content="RightMenu Master <sup>1.11.0</sup>">
     <meta property="og:url" content="https://wangchujiang.com/rightmenu-master/index.html">
     <meta property="og:image" content="https://wangchujiang.com/rightmenu-master/assets/logo.png">
     <meta property="og:type" content="application">
-    <meta property="og:title" content="RightMenu Master <sup>v1.11.0</sup>">
+    <meta property="og:title" content="RightMenu Master <sup>1.11.0</sup>">
     <meta property="og:description" content="RightMenu Master — An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerfu">
     <meta property="twitter:image:src" content="https://wangchujiang.com/rightmenu-master/assets/social-preview.png">
     <meta property="twitter:site" content="@jaywcjlove">
     <meta property="twitter:creator" content="jaywcjlove">
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:title" content="RightMenu Master <sup>v1.11.0</sup> - RightMenu Master — An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerfu">
+    <meta property="twitter:title" content="RightMenu Master <sup>1.11.0</sup> - RightMenu Master — An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerfu">
     <meta property="twitter:description" content="RightMenu Master — An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerfu">
     <meta name="apple-itunes-app" content="app-id=6670696072">
-    <link rel="stylesheet" type="text/css" href="css/main.css?v=1.34.0">
-    <link rel="stylesheet" type="text/css" href="css/tocbot.css?v=1.34.0">
-    <link rel="stylesheet" type="text/css" href="css/media.css?v=1.34.0">
-    <link rel="stylesheet" type="text/css" href="css/sidebar.css?v=1.34.0">
-    <link rel="stylesheet" type="text/css" href="css/copy.css?v=1.34.0">
-    <link rel="stylesheet" type="text/css" href="css/demo-preview.css?v=1.34.0">
+    <link rel="stylesheet" type="text/css" href="css/main.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="css/tocbot.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="css/media.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="css/sidebar.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="css/copy.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="css/demo-preview.css?v=1.34.1">
     <link rel="icon" href="assets/logo.png" type="image/x-icon">
-    <script src="js/copy.js?v=1.34.0"></script>
-    <script src="js/dark-mode.js?v=1.34.0"></script>
-    <script src="js/markdown-style.js?v=1.34.0"></script>
+    <script src="js/copy.js?v=1.34.1"></script>
+    <script src="js/dark-mode.js?v=1.34.1"></script>
+    <script src="js/markdown-style.js?v=1.34.1"></script>
   </head>
   <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
     <header class="header">
-      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="index.html"><img alt="RightMenu Master <sup>v1.11.0</sup> logo" src="assets/logo.png">
-<span class="title">RightMenu Master <sup>v1.11.0</sup></span></a>
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="index.html"><img alt="RightMenu Master <sup>1.11.0</sup> logo" src="assets/logo.png">
+<span class="title">RightMenu Master <sup>1.11.0</sup></span></a>
         <div class="content">
           <ul class="menu">
             <li><a href="index.html" target="" class="active">Home</a></li>
@@ -109,8 +109,10 @@
           <li>Method 1: Execute <code>killall Finder</code> in the command line to restart Finder.</li>
           <li>Method 2: Use the system’s <code>Force Quit Applications</code> feature to reload Finder. Open the <code>Force Quit Applications</code> window using the shortcut <kbd>⌘</kbd><kbd>⌥</kbd><kbd>esc</kbd>, find the <code>Finder</code> application, and click the <code>Relaunch</code> button below.</li>
         </ul>
-        <h3 id="frequent-authorization-pop-up-issues"><a aria-hidden="true" tabindex="-1" href="#frequent-authorization-pop-up-issues" class="anchor"><span class="icon icon-link"></span></a>Frequent Authorization Pop-Up Issues</h3>
-        <p>In the application settings, go to <code>General</code> -> <code>Full Disk Access</code> -> Click to <code>Grant</code> to add the application to the <code>Full Disk Access</code> list.</p>
+        <h3 id="frequent-authorization-prompts"><a aria-hidden="true" tabindex="-1" href="#frequent-authorization-prompts" class="anchor"><span class="icon icon-link"></span></a>Frequent Authorization Prompts</h3>
+        <p>In the app settings, under <code>Folder Authorization</code> -> <code>Add Folder</code>, try adding the root directory to avoid frequent authorization prompts.</p>
+        <h3 id="reauthorization-after-restart"><a aria-hidden="true" tabindex="-1" href="#reauthorization-after-restart" class="anchor"><span class="icon icon-link"></span></a>Reauthorization After Restart</h3>
+        <p>Here is Apple's security policy for Finder extensions. Initially, I thought granting <code>Full Disk Access</code> would solve the problem, but I found that it doesn't work. Even with <code>Full Disk Access</code> enabled, we still need to manually select the directory and grant permissions in Finder. This process is very cumbersome for personal use, and since App Store submission requires compliance with sandbox security policies, I have not yet found a better solution.</p>
         <h3 id="enable-finder-extension"><a aria-hidden="true" tabindex="-1" href="#enable-finder-extension" class="anchor"><span class="icon icon-link"></span></a>Enable Finder Extension</h3>
         <p>If you are prompted to enable the plugin, you can run the following command in the terminal to enable the Finder extension. This issue is caused by a bug in macOS 15+ where the settings interface disappeared. It has been <a href="https://forums.developer.apple.com/forums/thread/756711?answerId=812519022#812519022">fixed</a> in macOS 15.2.</p>
         <pre class="language-shell"><code class="language-shell code-highlight"><span class="code-line line-number" line="1">pluginkit <span class="token parameter variable">-e</span> use <span class="token parameter variable">-i</span> com.wangchujiang.rightmenu-master.sync <span class="token punctuation">\</span>
@@ -125,14 +127,14 @@
         -->
       </markdown-style>
     </div>
-    <script src="js/demo-preview.js?v=1.34.0"></script>
+    <script src="js/demo-preview.js?v=1.34.1"></script>
     <div class="footer warpper" style="max-width:720px;">
       <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
       <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
       <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
       <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
-      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.0
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.1
     </div>
-    <script src="js/tocbot.js?v=1.34.0"></script>
+    <script src="js/tocbot.js?v=1.34.1"></script>
   </body>
 </html>
