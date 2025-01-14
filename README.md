@@ -80,9 +80,13 @@ When permissions are passively confirmed and then denied, reauthorizing permissi
 - Method 1: Execute `killall Finder` in the command line to restart Finder.  
 - Method 2: Use the system’s `Force Quit Applications` feature to reload Finder. Open the `Force Quit Applications` window using the shortcut <kbd>⌘</kbd><kbd>⌥</kbd><kbd>esc</kbd>, find the `Finder` application, and click the `Relaunch` button below.
 
-### Frequent Authorization Pop-Up Issues
+### Frequent Authorization Prompts
 
-In the application settings, go to `General` -> `Full Disk Access` -> Click to `Grant` to add the application to the `Full Disk Access` list.
+In the app settings, under `Folder Authorization` -> `Add Folder`, try adding the root directory to avoid frequent authorization prompts.
+
+### Reauthorization After Restart
+
+Here is Apple's security policy for Finder extensions. Initially, I thought granting `Full Disk Access` would solve the problem, but I found that it doesn't work. Even with `Full Disk Access` enabled, we still need to manually select the directory and grant permissions in Finder. This process is very cumbersome for personal use, and since App Store submission requires compliance with sandbox security policies, I have not yet found a better solution.
 
 ### Enable Finder Extension
 
