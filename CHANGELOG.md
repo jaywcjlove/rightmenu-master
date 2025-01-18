@@ -5,7 +5,21 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.11.0](https://github.com/jaywcjlove/rightmenu-master/releases)
+## [v1.12.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.12.0)
+
+1. feat: Add "Open in Xcode" to menu bar folders.
+2. fix: Fix folder icon issue.
+3. feat: Add enable/disable Quick Look setting.
+4. perf: Optimize Finder icon loading performance.
+
+---
+
+1. feat: 为菜单栏文件夹添加 "在 Xcode 中打开" 功能。
+2. fix: 修复文件夹图标问题。
+3. feat: 添加启用/禁用 Quick Look 设置功能。
+4. perf: 优化 Finder 图标加载性能。
+
+## [v1.11.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.11.0)
 
 1. feat: Add `copyTo` menu.
 2. feat: Add `reset folder icon` menu.

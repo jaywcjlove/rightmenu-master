@@ -26,5 +26,5 @@ jobs:
           release: true
           body: |
             <a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="RightMenu Master for macOS">
-            <img alt="Paste Quick for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+              <img alt="RightMenu Master AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
             </a>
