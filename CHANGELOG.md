@@ -5,6 +5,14 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.12.1)
+
+1. chore: remove FullDiskAccess permission settings.
+
+---
+
+1. 变更: 移除了 Full Disk Access（完全磁盘访问）权限设置。
+
 ## [v1.12.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.12.0)
 
 1. feat: Add "Open in Xcode" to menu bar folders.
