@@ -37,8 +37,6 @@ body:
       options:
         - macOS 15.0 (Sequoia)
         - macOS 14.0 (Sonoma)
-        - iOS 18.0
-        - iOS 17.0
       default: 0
     validations:
       required: true
