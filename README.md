@@ -14,7 +14,7 @@
   <p>
     <a href="./README.zh.md">中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+RightMenu+Master">Contact & Support</a> • 
+    <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?template=bug_report.yml">Contact & Support</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/releases">Changelog</a>
   </p>
   <p>
