@@ -36,11 +36,11 @@ RightMenu Master —— 卓越的 Finder 右键菜单增强工具，让您的右
 
 RightMenu Master 是一款高度可配置的 Finder 扩展，能够为 Finder 的右键菜单和工具栏添加强大的操作功能。它让移动和复制文件、创建新文档等操作更加快捷、方便。应用还内置了多个实用的预设操作，进一步提升您的工作效率。
 
-![RightMenu Master Screenshot 4](./assets/screenshots-4.png)
+![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
 ![RightMenu Master Screenshot 3](./assets/screenshots-3.png)
+![RightMenu Master Screenshot 4](./assets/screenshots-4.png)
 ![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
 ![RightMenu Master Screenshot 6](./assets/screenshots-6.png)
-![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
 ![RightMenu Master Screenshot 7](./assets/screenshots-7.png)
 ![RightMenu Master Screenshot 8](./assets/screenshots-8.png)
 ![RightMenu Master Screenshot 9](./assets/screenshots-9.png)

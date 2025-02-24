@@ -38,11 +38,11 @@ RightMenu Master — An exceptional Finder right-click menu enhancement tool tha
 
 RightMenu Master is a highly configurable Finder extension that adds powerful functionality to the right-click menu and toolbar in Finder. It allows for quicker and more convenient operations such as moving and copying files, as well as creating new documents. The application also comes with several practical preset operations, further enhancing your work efficiency.
 
-![RightMenu Master Screenshot 4](./assets/screenshots-4.png)
+![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
 ![RightMenu Master Screenshot 3](./assets/screenshots-3.png)
+![RightMenu Master Screenshot 4](./assets/screenshots-4.png)
 ![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
 ![RightMenu Master Screenshot 6](./assets/screenshots-6.png)
-![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
 ![RightMenu Master Screenshot 7](./assets/screenshots-7.png)
 ![RightMenu Master Screenshot 8](./assets/screenshots-8.png)
 ![RightMenu Master Screenshot 9](./assets/screenshots-9.png)
