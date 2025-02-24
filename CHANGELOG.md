@@ -5,6 +5,20 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.13.0)
+
+1. feat: add separate settings for menu bar icon.
+2. feat: add parent folder navigation in the menu bar.
+3. feat: add version update check.
+4. fix: fix UI freeze caused by popup dialog.
+
+---
+
+1. 功能：为菜单栏图标添加单独的设置。
+2. 功能：在菜单栏中添加父文件夹导航。
+3. 功能：添加版本更新检查。
+4. 修复：修复弹出对话框导致的 UI 冻结问题。
+
 ## [v1.12.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.12.1)
 
 1. chore: remove FullDiskAccess permission settings.
