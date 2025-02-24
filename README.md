@@ -30,7 +30,7 @@ minimum OS requirement: `macOS 14.0`
 
 </div>
 
-RightMenu Master — An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
+RightMenu Master is a powerful Finder right-click menu enhancement tool designed to improve the efficiency of Mac users. It not only extends the functionality of the right-click menu but also offers menu bar favorites navigation for more convenient file management. Whether it’s creating new files, quickly previewing code, copying file paths, or sharing files via QR code, RightMenu Master makes it easy. The built-in features like quick access to frequently used folders and folder history make navigating files and folders faster. Additionally, useful features like quick delete, paste images, and folder icon color customization make operations more flexible and efficient. Whether for everyday tasks or development work, RightMenu Master provides great convenience.
 
 ![RightMenu Master Screenshot 1](./assets/screenshots-1.png)
 
