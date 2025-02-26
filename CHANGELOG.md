@@ -5,6 +5,20 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.14.0)
+
+1. feat: enhance error message for file sharing service.
+2. feat: add Share File option to the menu bar.
+3. fix: fix sync issue between cut shortcut and menu operation.
+4. fix: fix the share popup selection box in the menu bar.
+
+---
+
+1. 新增：增强文件共享服务的错误提示。
+2. 新增：在菜单栏添加“共享文件”选项。
+3. 修复：解决剪切快捷键与菜单操作不同步的问题。
+4. 修复：修复菜单栏中的共享弹窗选择框。
+
 ## [v1.13.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.13.0)
 
 1. feat: add separate settings for menu bar icon.
