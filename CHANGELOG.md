@@ -5,6 +5,22 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.16.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.16.0)
+
+1. feat: Add right-click menu for new file template settings
+2. feat: Add option to quickly add common folders to right-click menu
+3. feat: Add setting to open folder in Finder
+4. fix: Show alert when folder does not exist
+5. chore: Remove shortcut key settings
+
+---
+
+1. feat: 右键菜单新增新文件模板设置
+2. feat: 右键菜单新增快捷添加常用文件夹选项
+3. feat: 新增设置，可在 Finder 中打开文件夹
+4. fix: 修复文件夹不存在时未弹出提示的问题
+5. chore: 移除快捷键设置
+
 ## [v1.15.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.15.0)
 
 1. Feat: Add folder authorization prompt to the menu bar.
