@@ -5,6 +5,24 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.15.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.15.0)
+
+1. Feat: Add folder authorization prompt to the menu bar.
+2. Feat: Support folder creation in folder selection.
+3. Fix: Fix check for updates error.
+4. Fix: Fix partial reauthorization issue after restart.
+5. Fix: Update Finder activation method for macOS 14+ compatibility.
+6. Fix: Fix menubar menu URL error.
+
+---
+
+1. 新增：在菜单栏添加文件夹授权提示。
+2. 新增：在文件夹选择时支持创建文件夹。
+3. 修复：修复检查更新时的错误。
+4. 修复：修复部分重启后需要重新授权的问题。
+5. 修复：更新 Finder 激活方式以兼容 macOS 14+。
+6. 修复：解决菜单栏 URL 错误问题。
+
 ## [v1.14.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.14.0)
 
 1. feat: enhance error message for file sharing service.
