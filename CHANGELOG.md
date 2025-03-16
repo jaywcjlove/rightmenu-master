@@ -5,6 +5,22 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.17.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.17.0)
+
+1. feat: add menu bar folder to display files.
+2. feat: add show folder icon.
+3. fix: fix menu bar authorization issue.
+4. chore: check for receipt existence.
+5. fix: resolve menu display internationalization issue.
+
+---
+
+1. feat: 添加菜单栏文件夹以显示文件。
+2. feat: 添加显示文件夹图标。
+3. fix: 修复菜单栏授权问题。
+4. chore: 检查收据的存在。
+5. fix: 修复菜单显示的国际化问题。
+
 ## [v1.16.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.16.0)
 
 1. feat: Add right-click menu for new file template settings
