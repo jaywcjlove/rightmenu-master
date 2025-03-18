@@ -5,6 +5,14 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.17.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.17.1)
+
+1. fix: fix a minor bug
+
+---
+
+1. 修复: 修复一个小 bug
+
 ## [v1.17.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.17.0)
 
 1. feat: add menu bar folder to display files.
