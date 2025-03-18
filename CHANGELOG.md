@@ -5,6 +5,16 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.17.2](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.17.2)
+
+1. Fix: Resolve menu bar folder permission issue.
+2. Fix: Fix i18n display issue.
+
+---
+
+1. 修复: 解决菜单栏文件夹权限问题。
+2. 修复: 修复 i18n 显示问题。
+
 ## [v1.17.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.17.1)
 
 1. fix: fix a minor bug
