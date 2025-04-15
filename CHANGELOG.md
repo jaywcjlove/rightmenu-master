@@ -5,6 +5,25 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.0.0)
+
+1. Update: modify App Groups ID (will cause loss of old settings data). 
+2. Feat: add expand setting for frequently used apps in status bar.
+3. Feat: add quick navigation feature.
+4. Fix: display new permission authorization settings.
+5. Fix: resolve issue with Open Git Remote URL menu.
+6. Chore: optimize default main menu.
+
+---
+
+1. 更新：修改应用组ID（将导旧的设置数据丢失）。
+2. 新增：为状态栏常用应用添加展开设置。
+3. 新增：添加快速导航功能。
+4. 修复：显示新的权限授权设置。
+5. 修复：解决“打开 Git 远程 URL”菜单的问题。
+6. 优化：优化默认主菜单。
+
+
 ## [v1.17.2](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v1.17.2)
 
 1. Fix: Resolve menu bar folder permission issue.
