@@ -5,6 +5,16 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.1.0)
+
+1. fix: Fixed custom folder color addition issue
+2. feat: Added Enable QuickLook setting
+
+---
+
+1. fix: 修复了自定义文件夹颜色添加问题
+2. feat: 新增了启用 QuickLook 设置
+
 ## [v2.0.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.0.0)
 
 1. Update: modify App Groups ID (will cause loss of old settings data). 
