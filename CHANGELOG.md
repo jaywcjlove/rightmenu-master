@@ -5,6 +5,14 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.2.0)
+
+1. feat: Add "Open in Xcode" menu for recognizing Xcode project
+
+---
+
+1. 新增：添加“在 Xcode 中打开”菜单以识别 Xcode 项目
+
 ## [v2.1.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.1.0)
 
 1. fix: Fixed custom folder color addition issue
