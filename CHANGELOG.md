@@ -7,7 +7,7 @@ Changelog
 
 ## [v2.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.2.0)
 
-1. feat: Add "Open in Xcode" menu for recognizing Xcode project
+1. feat: Add "Open in Xcode" menu for recognizing Xcode project 
 
 ---
 
