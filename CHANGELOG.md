@@ -5,6 +5,23 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.3.0)
+
+1. feat: Add drag-and-drop support for new files.
+2. feat: Add drag-and-drop support for file sharing.
+3. feat: Add drag-and-drop support for frequently used apps.
+4. feat: Add support for dragging and dropping common folders.
+5. feat: Add drag-and-drop support for authorized folders.
+
+---
+
+1. feat: 添加对新文件的拖拽支持。
+2. feat: 添加对文件分享的拖拽支持。
+3. feat: 添加对常用应用的拖拽支持。
+4. feat: 添加对常见文件夹的拖拽支持。
+5. feat: 添加对授权文件夹的拖拽支持。
+6. fix: 修复菜单栏 Xcode 包项目打开问题。
+
 ## [v2.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.2.0)
 
 1. feat: Add "Open in Xcode" menu for recognizing Xcode project 
