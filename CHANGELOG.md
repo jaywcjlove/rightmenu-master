@@ -10,6 +10,12 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.4.0)
+
+1. feat: Add option to hide in folder menu.
+2. feat: add Dock icon context menu.
+3. chore: remove redundant items from status bar menu.
+
 ## [v2.3.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.3.0)
 
 1. feat: Add drag-and-drop support for new files.

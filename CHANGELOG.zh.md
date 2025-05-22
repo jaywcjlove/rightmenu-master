@@ -10,6 +10,12 @@
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.4.0)
+
+1. feat：在文件夹菜单中隐藏的选项
+2. feat：Dock 图标的右键菜单
+3. chore：移除状态栏菜单中的冗余项
+
 ## [v2.3.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.3.0)
 
 1. feat: 添加对新文件的拖拽支持。
