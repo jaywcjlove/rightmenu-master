@@ -15,7 +15,7 @@
     <a href="./README.zh.md">中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?template=bug_report.yml">Contact & Support</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/releases">Changelog</a>
+    <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="RightMenu Master for macOS">
