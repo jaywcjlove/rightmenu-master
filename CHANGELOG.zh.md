@@ -10,6 +10,10 @@
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.4.1)
+
+1. 修复：解决 Finder 扩展重启后的授权问题
+
 ## [v2.4.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.4.0)
 
 1. feat：在文件夹菜单中隐藏的选项
