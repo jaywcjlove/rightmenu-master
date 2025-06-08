@@ -34,7 +34,7 @@ minimum OS requirement: `macOS 14.0`
 
 > [!IMPORTANT]
 > 
-> Based on user feedback that the original app name was not ideal, I used AI to generate several name candidates and conducted a vote. As a result, the app name will be changed to **Menuist** starting from version 2.5.
+> Based on user feedback that the original app name was not ideal, I used AI to generate several name candidates and conducted a vote. As a result, the app name will be changed to **`Menuist`** starting from version 2.5.
 
 RightMenu Master is a powerful Finder right-click menu enhancement tool designed to improve the efficiency of Mac users. It not only extends the functionality of the right-click menu but also offers menu bar favorites navigation for more convenient file management. Whether it’s creating new files, quickly previewing code, copying file paths, or sharing files via QR code, RightMenu Master makes it easy. The built-in features like quick access to frequently used folders and folder history make navigating files and folders faster. Additionally, useful features like quick delete, paste images, and folder icon color customization make operations more flexible and efficient. Whether for everyday tasks or development work, RightMenu Master provides great convenience.
 
