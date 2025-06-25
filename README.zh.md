@@ -32,24 +32,24 @@
 
 > [!IMPORTANT]
 > 
-> 根据用户反馈认为原应用名称 ~~RightMenu Master~~ 不够理想，我使用 AI 生成了多个候选名称并发起投票，最终决定从 2.5 版本起将应用名称更改为 **`Menuist`**。
+> 根据用户反馈认为原应用名称 ~~RightMenu Master~~ 不够理想，我使用 AI 生成了多个候选名称并发起投票，最终决定从 3.0 版本起将应用名称更改为 **`Menuist`**。
 
-RightMenu Master 是一款强大的 Finder 右键菜单增强工具，专为提升 Mac 用户的操作效率而设计。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏导航，让文件管理更加便捷。无论是创建新文件、快速预览代码、复制文件路径，还是通过二维码分享文件，RightMenu Master 都能帮你轻松完成。内置的常用文件夹和文件夹历史记录功能，使得文件和文件夹的访问更加迅速。而像快速删除、快捷粘贴、文件夹图标颜色自定义等实用功能，更是让操作更加灵活高效。无论是日常办公还是开发工作，RightMenu Master 都能为你提供极大的便利。
+**Menuist** 是一款强大的 Finder 右键菜单增强工具，专为提升 Mac 用户的操作效率而设计。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏导航，让文件管理更加便捷。无论是创建新文件、快速预览代码、复制文件路径，还是通过二维码分享文件，Menuist 都能帮你轻松完成。内置的常用文件夹和文件夹历史记录功能，使得文件和文件夹的访问更加迅速。而像快速删除、快捷粘贴、文件夹图标颜色自定义等实用功能，更是让操作更加灵活高效。无论是日常办公还是开发工作，Menuist 都能为你提供极大的便利。
 
-![RightMenu Master Screenshot 1](./assets/screenshots-1.png)
+![Menuist Screenshot 1](./assets/screenshots-1.png)
 
 ## Mac 用户必备应用！
 
-RightMenu Master 是一款高度可配置的 Finder 扩展，能够为 Finder 的右键菜单和工具栏添加强大的操作功能。它让移动和复制文件、创建新文档等操作更加快捷、方便。应用还内置了多个实用的预设操作，进一步提升您的工作效率。
+Menuist 是一款高度可配置的 Finder 扩展，能够为 Finder 的右键菜单和工具栏添加强大的操作功能。它让移动和复制文件、创建新文档等操作更加快捷、方便。应用还内置了多个实用的预设操作，进一步提升您的工作效率。
 
-![RightMenu Master Screenshot 5](./assets/screenshots-5.png)
-![RightMenu Master Screenshot 3](./assets/screenshots-3.png)
-![RightMenu Master Screenshot 4](./assets/screenshots-4.png)
-![RightMenu Master Screenshot 2](./assets/screenshots-2.png)
-![RightMenu Master Screenshot 6](./assets/screenshots-6.png)
-![RightMenu Master Screenshot 7](./assets/screenshots-7.png)
-![RightMenu Master Screenshot 8](./assets/screenshots-8.png)
-![RightMenu Master Screenshot 9](./assets/screenshots-9.png)
+![Menuist Screenshot 5](./assets/screenshots-5.png)
+![Menuist Screenshot 3](./assets/screenshots-3.png)
+![Menuist Screenshot 4](./assets/screenshots-4.png)
+![Menuist Screenshot 2](./assets/screenshots-2.png)
+![Menuist Screenshot 6](./assets/screenshots-6.png)
+![Menuist Screenshot 7](./assets/screenshots-7.png)
+![Menuist Screenshot 8](./assets/screenshots-8.png)
+![Menuist Screenshot 9](./assets/screenshots-9.png)
 
 ## 主要功能
 

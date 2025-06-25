@@ -1,6 +1,6 @@
-name: 🙋‍♂️ [RightMenu Master] - 支持与反馈
-description: "获取有关 RightMenu Master、报告错误或请求功能的帮助。"
-title: '🙋‍♂️ 支持与反馈: RightMenu Master'
+name: 🙋‍♂️ [Menuist] - 支持与反馈
+description: "获取有关 Menuist、报告错误或请求功能的帮助。"
+title: '🙋‍♂️ 支持与反馈: Menuist'
 labels: ['support', 'feedback', 'question']
 assignees:
   - jaywcjlove
@@ -9,9 +9,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img align="right" height="100" alt="RightMenu Master" src="https://github.com/user-attachments/assets/9c06aaa1-0a20-47f1-8545-bfd4c08aea59" /> 
+        <img align="right" height="100" alt="Menuist" src="https://github.com/user-attachments/assets/9c06aaa1-0a20-47f1-8545-bfd4c08aea59" /> 
 
-        RightMenu Master 是一款高度可配置的 Finder 扩展，能够为 Finder 的右键菜单和工具栏添加强大的操作功能。它让移动和复制文件、创建新文档等操作更加快捷、方便。应用还内置了多个实用的预设操作，进一步提升您的工作效率。
+        **Menuist** 是一款高度可配置的 Finder 扩展，能够为 Finder 的右键菜单和工具栏添加强大的操作功能。它让移动和复制文件、创建新文档等操作更加快捷、方便。应用还内置了多个实用的预设操作，进一步提升您的工作效率。
 
         ### 联系信息
 

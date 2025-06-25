@@ -6,9 +6,11 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="RightMenu Master for macOS">
-  <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+<a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="Menuist for macOS">
+  <img alt="Menuist for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
+
+Renamed 【RightMenu Master】 to 【Menuist】
 
 ## [v3.0.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.0.0)
 

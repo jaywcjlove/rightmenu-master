@@ -6,15 +6,15 @@
 Terms of Service
 ===
 
-Welcome to RightMenu Master! By using our application, you agree to the following terms of service (“Terms”). Please read these Terms carefully before using RightMenu Master. These Terms apply to all users of RightMenu Master.
+Welcome to **Menuist**! By using our application, you agree to the following terms of service (“Terms”). Please read these Terms carefully before using Menuist. These Terms apply to all users of Menuist.
 
 ## Acceptance of Terms
 
-By downloading, accessing, or using RightMenu Master (“the App”), you agree to comply with and be bound by these Terms. If you do not agree to these Terms, you may not use the App.
+By downloading, accessing, or using Menuist (“the App”), you agree to comply with and be bound by these Terms. If you do not agree to these Terms, you may not use the App.
 
 ## Intellectual Property
 
-The App and its content, including but not limited to all icons, logos, designs, and other intellectual property, are the exclusive property of RightMenu Master and its development team. You are granted a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes only.
+The App and its content, including but not limited to all icons, logos, designs, and other intellectual property, are the exclusive property of Menuist and its development team. You are granted a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes only.
 
 ## User Responsibilities
 
@@ -30,7 +30,7 @@ We reserve the right to modify, update, or discontinue the App at any time witho
 
 ## Limitation of Liability
 
-To the maximum extent permitted by law, RightMenu Master and its developers shall not be liable for any damages arising from or in connection with your use of the App. This includes but is not limited to loss of data, system failures, or business interruptions.
+To the maximum extent permitted by law, Menuist and its developers shall not be liable for any damages arising from or in connection with your use of the App. This includes but is not limited to loss of data, system failures, or business interruptions.
 
 ## Governing Law
 

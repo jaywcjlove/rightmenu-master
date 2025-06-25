@@ -28,16 +28,16 @@ jobs:
           version: ${{ steps.create_tag.outputs.version }}
           release: true
           body: |
-            <a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="RightMenu Master for macOS">
-              <img alt="RightMenu Master AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+            <a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="Menuist for macOS">
+              <img alt="Menuist AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
             </a>
 
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "RightMenu Master {{version:${{ steps.create_tag.outputs.version }}}}"
+          site: "Menuist {{version:${{ steps.create_tag.outputs.version }}}}"
           description: An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
-          keywords: RightMenu, Finder, macOS, application, file management, create new file, copy functionality, enhancement tool
+          keywords: RightMenu,Menuist,Finder,macOS,application,file management,create new file,copy functionality, enhancement tool
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/rightmenu-master

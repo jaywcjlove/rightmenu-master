@@ -6,11 +6,11 @@
 Feedback & Support
 ===
 
-RightMenu Master is a powerful and privacy-focused Finder extension that enhances the right-click menu, providing you with efficient file management tools. This application allows you to quickly create new files, move or copy files and folders, and access commonly used actions—all designed to simplify your workflow.
+**Menuist** is a powerful and privacy-focused Finder extension that enhances the right-click menu, providing you with efficient file management tools. This application allows you to quickly create new files, move or copy files and folders, and access commonly used actions—all designed to simplify your workflow.
 
-I highly value your feedback and support! If you encounter any issues, have questions, or would like to suggest new features, please feel free to reach out. Your input is essential in helping me improve RightMenu Master and provide you with the best possible experience.
+I highly value your feedback and support! If you encounter any issues, have questions, or would like to suggest new features, please feel free to reach out. Your input is essential in helping me improve Menuist and provide you with the best possible experience.
 
-You can contact me through the app or by emailing **kennyiseeyou@gmail.com**. I am dedicated to assisting you and ensuring you have a smooth and enjoyable experience while using RightMenu Master. Thank you for choosing RightMenu Master!
+You can contact me through the app or by emailing **kennyiseeyou@gmail.com**. I am dedicated to assisting you and ensuring you have a smooth and enjoyable experience while using Menuist. Thank you for choosing Menuist!
 
 Contact Information
 
