@@ -10,6 +10,15 @@
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.0.0)
+
+【RightMenu Master】更名为【Menuist】
+
+1. 重构：将 RightMenuMaster 重命名为 Menuist。
+2. 新功能：优化图标加载。
+3. 优化：优化常用应用的导入。
+4. 维护：更新帮助页面。
+
 ## [v2.4.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.4.1)
 
 1. 修复：解决 Finder 扩展重启后的授权问题

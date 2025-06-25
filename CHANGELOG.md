@@ -10,6 +10,15 @@ Changelog
   <img alt="RightMenu Master for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.0.0)
+
+Renamed 【RightMenu Master】 to 【Menuist】
+
+1. refactor: rename RightMenuMaster to Menuist.
+2. feat: optimize icon loading.
+3. pref: optimize import of frequently used apps.
+4. chore: update help page.
+
 ## [v2.4.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v2.4.1)
 
 1. fix: resolve Finder extension re-authorization issue after reboot.
