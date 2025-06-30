@@ -12,6 +12,11 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v3.0.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.0.1)
+
+1. fix: 修复搜索结果菜单授权问题
+2. chore: 更新赞助付费描述
+
 ## [v3.0.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.0.0)
 
 【RightMenu Master】更名为【Menuist】
