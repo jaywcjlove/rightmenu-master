@@ -103,6 +103,7 @@ pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
 ```
 
 <!--idoc:config:
-title: 卓越的 Finder 右键菜单增强工具，让您的右键菜单更加强大。
-keywords: RightMenu,右键菜单,Finder,macOS,应用,文件管理,创建新文件,复制功能,增强工具
+title: Menuist
+keywords: RightMenu,RightMenu Master,右键菜单,Finder,macOS,应用,文件管理,创建新文件,复制功能,增强工具
+description: 卓越的 Finder 右键菜单增强工具，让您的右键菜单更加强大。
 -->
