@@ -12,6 +12,13 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v3.1.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.1.0)
+
+1. fix: Fixed default settings window position.
+2. fix: Fixed missing help page redirect when plugin is disabled.
+3. ui: Optimized settings UI for commonly used apps.
+4. fix: Fixed folder addition restriction issue.
+
 ## [v3.0.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.0.1)
 
 1. fix: fix auth issue in search result menu

@@ -12,6 +12,13 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v3.1.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.1.0)
+
+1. 修复：修复设置窗口默认打开位置问题。
+2. 修复：修复插件未启用时未跳转帮助页面的问题。
+3. 界面：优化常用应用的设置界面。
+4. 修复：修复添加文件夹时的限制问题。
+
 ## [v3.0.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.0.1)
 
 1. fix: 修复搜索结果菜单授权问题
