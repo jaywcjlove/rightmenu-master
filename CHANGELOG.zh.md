@@ -12,6 +12,13 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v3.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.2.0)
+
+1. perf：提升了状态栏图标的显示性能
+2. perf：优化了 Finder 扩展的图标加载速度
+3. perf：缓存常用应用图标以提升性能
+4. feat：新增「锁定文件/文件夹」菜单功能
+
 ## [v3.1.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.1.0)
 
 1. 修复：修复设置窗口默认打开位置问题。

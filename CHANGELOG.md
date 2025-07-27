@@ -12,6 +12,14 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v3.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.2.0)
+
+1. perf: improve performance of status bar menu icon rendering.
+2. perf: optimize Finder extension performance with icon caching.
+3. perf：cache frequently used app icons to improve performance.
+3. feat: Add Locked File/Folder menu.
+4. feat: add visibility toggle for Common Folders in Finder.
+
 ## [v3.1.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.1.0)
 
 1. fix: Fixed default settings window position.

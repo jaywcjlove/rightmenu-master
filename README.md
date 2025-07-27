@@ -76,6 +76,7 @@ Menuist is a highly configurable Finder extension that adds powerful functionali
 - **Move To**: Allow quick moving of files or folders to a specified location.
 - **Convert To**: Provide image format conversion functions.
 - **Create icns Icon**: Support quick navigation for creating icns icon files.
+- **File/Folder Locked**: Quickly lock files or folders via menu shortcut only
 
 ## Frequently Asked Questions
 
