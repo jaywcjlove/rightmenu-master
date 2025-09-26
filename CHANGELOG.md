@@ -12,6 +12,17 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.0.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.0.0)
+
+1. feat: Support for macOS 26.
+2. feat: Option to view frequently used apps in Finder.
+3. fixed: Resolved permission issue when opening the menu bar app on macOS 26.
+4. perf: Streamlined the permission authorization process.
+5. perf: Enhanced the performance of loading frequently used apps.
+6. perf: Reduced memory usage when loading icons.
+7. perf: Boosted icon loading speed.
+8. perf: Enhanced the file sharing settings interface.
+
 ## [v3.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.2.0)
 
 1. perf: improve performance of status bar menu icon rendering.

@@ -38,20 +38,20 @@ minimum OS requirement: `macOS 14.0`
 
 **Menuist** is a powerful Finder right-click menu enhancement tool designed to improve the efficiency of Mac users. It not only extends the functionality of the right-click menu but also offers menu bar favorites navigation for more convenient file management. Whether it’s creating new files, quickly previewing code, copying file paths, or sharing files via QR code, Menuist makes it easy. The built-in features like quick access to frequently used folders and folder history make navigating files and folders faster. Additionally, useful features like quick delete, paste images, and folder icon color customization make operations more flexible and efficient. Whether for everyday tasks or development work, Menuist provides great convenience.
 
-![Menuist Screenshot 1](./assets/screenshots-1.png)
+![Menuist v4.0 Screenshot 1](./assets/screenshots-1.png)
 
 ## A Must-Have Application for Mac Users!
 
 Menuist is a highly configurable Finder extension that adds powerful functionality to the right-click menu and toolbar in Finder. It allows for quicker and more convenient operations such as moving and copying files, as well as creating new documents. The application also comes with several practical preset operations, further enhancing your work efficiency.
 
-![Menuist Screenshot 5](./assets/screenshots-5.png)
-![Menuist Screenshot 3](./assets/screenshots-3.png)
-![Menuist Screenshot 4](./assets/screenshots-4.png)
-![Menuist Screenshot 2](./assets/screenshots-2.png)
-![Menuist Screenshot 6](./assets/screenshots-6.png)
-![Menuist Screenshot 7](./assets/screenshots-7.png)
-![Menuist Screenshot 8](./assets/screenshots-8.png)
-![Menuist Screenshot 9](./assets/screenshots-9.png)
+![Menuist v4.0 Screenshot 5](./assets/screenshots-5.png)
+![Menuist v4.0 Screenshot 3](./assets/screenshots-3.png)
+![Menuist v4.0 Screenshot 4](./assets/screenshots-4.png)
+![Menuist v4.0 Screenshot 2](./assets/screenshots-2.png)
+![Menuist v4.0 Screenshot 6](./assets/screenshots-6.png)
+![Menuist v4.0 Screenshot 7](./assets/screenshots-7.png)
+![Menuist v4.0 Screenshot 8](./assets/screenshots-8.png)
+![Menuist v4.0 Screenshot 9](./assets/screenshots-9.png)
 
 ## Main Features
 

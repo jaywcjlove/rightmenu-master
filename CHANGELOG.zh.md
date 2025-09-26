@@ -12,6 +12,17 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.0.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.0.0)
+
+1. 新增：支持 macOS 26。
+2. 新增：在 Finder 中查看常用应用的选项。
+3. 修复：解决 macOS 26 中菜单栏应用打开权限问题。
+4. 优化：改进权限授权流程。
+5. 优化：提升常用应用加载性能。
+6. 优化：减少加载图标时的内存使用。
+7. 优化：提升图标加载速度。
+8. 优化：改善文件共享设置界面。
+
 ## [v3.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v3.2.0)
 
 1. perf：提升了状态栏图标的显示性能
