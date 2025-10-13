@@ -68,7 +68,7 @@ Menuist is a highly configurable Finder extension that adds powerful functionali
 - **Quick Preview with Code Highlighting**: Support for quick preview of code files with syntax highlighting.
 - **File QR Code Sharing**: Quickly share files via QR code and local network links.
 - **Frequently Used Folders**: Customize frequently used folders for quick access or to create new terminal windows.
-- **Website Navigation**：Supports setting frequently used folders as website shortcuts.
+- **Website Navigation**：Supports setting frequently used folders as [website navigation](https://github.com/jaywcjlove/bookmarks).
 - **Folder Access History**: Record and quickly access the history paths of folders.
 - **Common Applications**: Quickly open commonly used editors or command line tools (Terminal/iTerm).
 - **Common Scripts**: You can create custom scripts and add them to the right-click menu.
@@ -105,6 +105,12 @@ In the app settings, under `Folder Authorization` -> `Add Folder`, try adding th
 ### Reauthorization After Restart
 
 Here is Apple's security policy for Finder extensions. Initially, I thought granting `Full Disk Access` would solve the problem, but I found that it doesn't work. Even with `Full Disk Access` enabled, we still need to manually select the directory and grant permissions in Finder. This process is very cumbersome for personal use, and since App Store submission requires compliance with sandbox security policies, I have not yet found a better solution.
+
+### How to Set Up Website Shortcuts?
+
+You can refer to our [Menuist Bookmarks](https://github.com/jaywcjlove/bookmarks) repository as an example. Simply add the example to your frequently used folders to quickly enable website shortcuts. You can also follow the documentation to add and manage your own bookmarks.
+
+![Menuist v4 Screenshot 2](./assets/screenshots-2.png)
 
 ### Enable Finder Extension
 
