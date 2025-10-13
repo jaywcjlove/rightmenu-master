@@ -12,6 +12,14 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.1.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.1.0)
+
+1. feat: Added option to set frequent folders as website navigation.
+2. feat: Added new commonly used script features.
+3. ui: Improved the appearance of the settings UI.
+4. fix: Fixed issue where opening settings required two clicks on the Dock.
+5. fix: Fixed problem with settings window not appearing in front.
+
 ## [v4.0.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.0.0)
 
 1. feat: Support for macOS 26.

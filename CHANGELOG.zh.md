@@ -12,6 +12,13 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.1.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.1.0)
+
+1. feat: 支持将常用文件夹设置为网站导航。
+2. feat: 新增常用脚本功能。
+3. ui: 优化设置界面显示。
+4. fix: 修复在 Dock 上打开设置需要点击两次的问题。
+
 ## [v4.0.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.0.0)
 
 1. 新增：支持 macOS 26。
