@@ -110,7 +110,9 @@ Here is Apple's security policy for Finder extensions. Initially, I thought gran
 
 You can refer to our [Menuist Bookmarks](https://github.com/jaywcjlove/bookmarks) repository as an example. Simply add the example to your frequently used folders to quickly enable website shortcuts. You can also follow the documentation to add and manage your own bookmarks.
 
-![Menuist v4 Screenshot 2](./assets/screenshots-2.png)
+![Menuist v4 bookmarks 2](./assets/menuist-bookmarks.png)
+
+![Menuist v4 bookmarks finder 2](./assets//menuist-bookmarks-finder.png)
 
 ### Enable Finder Extension
 

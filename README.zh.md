@@ -108,7 +108,9 @@ Menuist 是一款高度可配置的 Finder 扩展，能够为 Finder 的右键�
 
 你可以参考我们的 [Menuist 书签](https://github.com/jaywcjlove/bookmarks) 仓库示例，只需将示例添加到常用文件夹中，即可快速实现网站导航功能。同时，你也可以根据文档说明，自行添加和管理自己的书签。
 
-![Menuist v4 Screenshot 2](./assets/screenshots-2.png)
+![Menuist v4 bookmarks 2](./assets/menuist-bookmarks.png)
+
+![Menuist v4 bookmarks finder 2](./assets//menuist-bookmarks-finder.png)
 
 ### 启用 Finder 扩展
 
