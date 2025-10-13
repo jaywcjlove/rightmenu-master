@@ -45,13 +45,22 @@ minimum OS requirement: `macOS 14.0`
 Menuist is a highly configurable Finder extension that adds powerful functionality to the right-click menu and toolbar in Finder. It allows for quicker and more convenient operations such as moving and copying files, as well as creating new documents. The application also comes with several practical preset operations, further enhancing your work efficiency.
 
 ![Menuist v4.0 Screenshot 5](./assets/screenshots-5.png)
+
 ![Menuist v4.0 Screenshot 3](./assets/screenshots-3.png)
-![Menuist v4.0 Screenshot 4](./assets/screenshots-4.png)
+
 ![Menuist v4.0 Screenshot 2](./assets/screenshots-2.png)
+
+![Menuist v4.0 Screenshot 4](./assets/screenshots-4.png)
+
 ![Menuist v4.0 Screenshot 6](./assets/screenshots-6.png)
+
 ![Menuist v4.0 Screenshot 7](./assets/screenshots-7.png)
+
 ![Menuist v4.0 Screenshot 8](./assets/screenshots-8.png)
+
 ![Menuist v4.0 Screenshot 9](./assets/screenshots-9.png)
+
+![Menuist v4.0 Screenshot 10](./assets/screenshots-10.png)
 
 ## Main Features
 
@@ -59,8 +68,10 @@ Menuist is a highly configurable Finder extension that adds powerful functionali
 - **Quick Preview with Code Highlighting**: Support for quick preview of code files with syntax highlighting.
 - **File QR Code Sharing**: Quickly share files via QR code and local network links.
 - **Frequently Used Folders**: Customize frequently used folders for quick access or to create new terminal windows.
+- **Website Navigation**：Supports setting frequently used folders as website shortcuts.
 - **Folder Access History**: Record and quickly access the history paths of folders.
 - **Common Applications**: Quickly open commonly used editors or command line tools (Terminal/iTerm).
+- **Common Scripts**: You can create custom scripts and add them to the right-click menu.
 - **Copy Functions**: Provide various copy functions to simplify file path and name management.
 - **Copy File Path**: Quickly copy the absolute path of a file.
 - **Copy Folder/File Name**: Support quick copying of folder or file names.
