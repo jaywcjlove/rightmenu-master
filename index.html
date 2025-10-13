@@ -110,7 +110,7 @@
           <li><strong>Quick Preview with Code Highlighting</strong>: Support for quick preview of code files with syntax highlighting.</li>
           <li><strong>File QR Code Sharing</strong>: Quickly share files via QR code and local network links.</li>
           <li><strong>Frequently Used Folders</strong>: Customize frequently used folders for quick access or to create new terminal windows.</li>
-          <li><strong>Website Navigation</strong>：Supports setting frequently used folders as website shortcuts.</li>
+          <li><strong>Website Navigation</strong>：Supports setting frequently used folders as <a href="https://github.com/jaywcjlove/bookmarks">website navigation</a>.</li>
           <li><strong>Folder Access History</strong>: Record and quickly access the history paths of folders.</li>
           <li><strong>Common Applications</strong>: Quickly open commonly used editors or command line tools (Terminal/iTerm).</li>
           <li><strong>Common Scripts</strong>: You can create custom scripts and add them to the right-click menu.</li>
@@ -142,6 +142,11 @@
         <p>In the app settings, under <code>Folder Authorization</code> -> <code>Add Folder</code>, try adding the root directory to avoid frequent authorization prompts.</p>
         <h3 id="reauthorization-after-restart"><a aria-hidden="true" tabindex="-1" href="#reauthorization-after-restart" class="anchor"><span class="icon icon-link"></span></a>Reauthorization After Restart</h3>
         <p>Here is Apple's security policy for Finder extensions. Initially, I thought granting <code>Full Disk Access</code> would solve the problem, but I found that it doesn't work. Even with <code>Full Disk Access</code> enabled, we still need to manually select the directory and grant permissions in Finder. This process is very cumbersome for personal use, and since App Store submission requires compliance with sandbox security policies, I have not yet found a better solution.</p>
+        <h3 id="how-to-set-up-website-shortcuts"><a aria-hidden="true" tabindex="-1" href="#how-to-set-up-website-shortcuts" class="anchor"><span class="icon icon-link"></span></a>How to Set Up Website Shortcuts?</h3>
+        <p>You can refer to our <a href="https://github.com/jaywcjlove/bookmarks">Menuist Bookmarks</a> repository as an example. Simply add the example to your frequently used folders to quickly enable website shortcuts. You can also follow the documentation to add and manage your own bookmarks.</p>
+        <p>
+          <img src="assets/screenshots-2.png" alt="Menuist v4 Screenshot 2">
+        </p>
         <h3 id="enable-finder-extension"><a aria-hidden="true" tabindex="-1" href="#enable-finder-extension" class="anchor"><span class="icon icon-link"></span></a>Enable Finder Extension</h3>
         <p>If you are prompted to enable the plugin, you can run the following command in the terminal to enable the Finder extension. This issue is caused by a bug in macOS 15+ where the settings interface disappeared. It has been <a href="https://forums.developer.apple.com/forums/thread/756711?answerId=812519022#812519022">fixed</a> in macOS 15.2.</p>
         <pre class="language-shell"><code class="language-shell code-highlight"><span class="code-line line-number" line="1">pluginkit <span class="token parameter variable">-e</span> use <span class="token parameter variable">-i</span> com.wangchujiang.rightmenu-master.sync <span class="token punctuation">\</span>

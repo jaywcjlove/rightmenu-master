@@ -111,7 +111,7 @@
           <li><strong>快速预览支持代码高亮</strong>：支持带语法高亮的代码文件快速预览。</li>
           <li><strong>文件二维码分享</strong>：通过二维码和局域网链接快速分享文件。</li>
           <li><strong>常用文件夹</strong>：自定义常用文件夹，快速访问或新建终端窗口。</li>
-          <li><strong>网站导航</strong>：支持将常用文件夹设置为网站导航。</li>
+          <li><strong>网站导航</strong>：支持将常用文件夹设置为<a href="https://github.com/jaywcjlove/bookmarks">网站导航</a>。</li>
           <li><strong>文件夹访问历史</strong>：记录并快速访问文件夹历史路径。</li>
           <li><strong>常用应用</strong>：快速打开常用编辑器或命令行工具（Terminal/iTerm）。</li>
           <li><strong>常用脚本</strong>：支持自定义脚本并将其添加到右键菜单中。</li>
@@ -143,6 +143,11 @@
         <p>在应用设置中 <code>文件夹授权</code> -> <code>添加文件夹</code>，尽量添加根目录，将不会频繁弹出授权问题。</p>
         <h3 id="重启需要重新授权"><a aria-hidden="true" tabindex="-1" href="#重启需要重新授权" class="anchor"><span class="icon icon-link"></span></a>重启需要重新授权</h3>
         <p>这是 Apple 针对 Finder 扩展的安全策略。最初，我认为授予 <code>完整磁盘访问</code> 权限可以解决问题，但实际发现并没有效果。即使启用了 <code>完整磁盘访问</code>，我们仍然需要在 Finder 中手动选择目录并授予权限。这个过程在个人使用中非常麻烦，而由于 App Store 提交要求遵守沙箱安全策略，至今我还没有找到更好的解决方案。</p>
+        <h3 id="如何设置网站导航"><a aria-hidden="true" tabindex="-1" href="#如何设置网站导航" class="anchor"><span class="icon icon-link"></span></a>如何设置网站导航？</h3>
+        <p>你可以参考我们的 <a href="https://github.com/jaywcjlove/bookmarks">Menuist 书签</a> 仓库示例，只需将示例添加到常用文件夹中，即可快速实现网站导航功能。同时，你也可以根据文档说明，自行添加和管理自己的书签。</p>
+        <p>
+          <img src="assets/screenshots-2.png" alt="Menuist v4 Screenshot 2">
+        </p>
         <h3 id="启用-finder-扩展"><a aria-hidden="true" tabindex="-1" href="#启用-finder-扩展" class="anchor"><span class="icon icon-link"></span></a>启用 Finder 扩展</h3>
         <p>如果提示需要启用插件，您可以在命令行中运行以下命令来启用 Finder 扩展。这是由于 macOS 15+ 存在一个设置界面消失的 bug，已在 macOS 15.2 中<a href="https://forums.developer.apple.com/forums/thread/756711?answerId=812519022#812519022">修复</a>。</p>
         <pre class="language-shell"><code class="language-shell code-highlight"><span class="code-line line-number" line="1">pluginkit <span class="token parameter variable">-e</span> use <span class="token parameter variable">-i</span> com.wangchujiang.rightmenu-master.sync <span class="token punctuation">\</span>
