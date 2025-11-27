@@ -12,6 +12,13 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.2.0)
+
+1. feat: 优化快速导航菜单展示性能。
+2. feat: 优化授权导航。
+3. perf: 优化文件夹授权。
+4. perf: 优化Finder插件预览代码高亮。
+
 ## [v4.1.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.1.0)
 
 1. feat: 支持将常用文件夹设置为网站导航。

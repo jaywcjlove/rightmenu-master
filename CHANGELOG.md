@@ -12,6 +12,13 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.2.0)
+
+1. feat: Optimize quick navigation menu display performance.
+2. feat: optimize authorization navigation
+3. perf: Optimize folder authorization.
+4. perf: Optimize Finder extension preview code highlighting.
+
 ## [v4.1.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.1.0)
 
 1. feat: Added option to set frequent folders as website navigation.
