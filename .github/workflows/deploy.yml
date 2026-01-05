@@ -28,7 +28,7 @@ jobs:
           version: ${{ steps.create_tag.outputs.version }}
           release: true
           body: |
-            <a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="Menuist for macOS">
+            <a target="_blank" href="https://apps.apple.com/app/menuist/6737160756" title="Menuist for macOS">
               <img alt="Menuist AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
             </a>
 
