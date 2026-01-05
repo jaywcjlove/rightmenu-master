@@ -1,10 +1,10 @@
 https://wangchujiang.com/rightmenu-master/index.html
 https://wangchujiang.com/rightmenu-master/index.zh.html
 https://wangchujiang.com/rightmenu-master/CHANGELOG.html
-https://wangchujiang.com/rightmenu-master/CHANGELOG.zh.html
 https://wangchujiang.com/rightmenu-master/feedback.html
-https://wangchujiang.com/rightmenu-master/terms-of-service.html
+https://wangchujiang.com/rightmenu-master/CHANGELOG.zh.html
 https://wangchujiang.com/rightmenu-master/feedback.zh.html
+https://wangchujiang.com/rightmenu-master/terms-of-service.html
 https://wangchujiang.com/rightmenu-master/terms-of-service.zh.html
 https://wangchujiang.com/rightmenu-master/privacy-policy.html
 https://wangchujiang.com/rightmenu-master/privacy-policy.zh.html
