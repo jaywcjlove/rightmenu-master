@@ -12,6 +12,14 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.3.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.3.0)
+
+1. feat: add hide menu option to the context menu. 
+2. perf: improve context menu pop-up performance, reduce delay. 
+3. perf: optimize sidebar disable-hide behavior 
+4. fix: fix issue with hidden "More Apps" settings option. 
+5. fix: Fix failure to open settings.
+
 ## [v4.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.2.0)
 
 1. feat: 优化快速导航菜单展示性能。

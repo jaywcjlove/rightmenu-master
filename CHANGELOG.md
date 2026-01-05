@@ -12,6 +12,14 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.3.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.3.0)
+
+1. feat: 在快捷菜单中新增隐藏菜单选项
+2. perf: 优化快捷菜单弹出性能，减少延迟
+3. perf: 优化侧边栏禁用隐藏行为
+4. fix: 修复“更多应用”设置选项隐藏的问题
+5. fix: 修复打开设置失败的问题
+
 ## [v4.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.2.0)
 
 1. feat: Optimize quick navigation menu display performance.
