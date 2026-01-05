@@ -6,19 +6,25 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/rightmenu-master/6737160756" title="Menuist for macOS">
+<a target="_blank" href="https://apps.apple.com/app/menuist/6737160756" title="Menuist for macOS">
   <img alt="Menuist for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.4.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.4.0)
+
+1. feat: Add "Hide menu" option in status bar menu settings
+2. fix: Fix internationalization display error.
+3. fix: Resolve issue with paid unlock verification error.
+
 ## [v4.3.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.3.0)
 
-1. feat: 在快捷菜单中新增隐藏菜单选项
-2. perf: 优化快捷菜单弹出性能，减少延迟
-3. perf: 优化侧边栏禁用隐藏行为
-4. fix: 修复“更多应用”设置选项隐藏的问题
-5. fix: 修复打开设置失败的问题
+1. feat: add hide menu option to the context menu. 
+2. perf: improve context menu pop-up performance, reduce delay. 
+3. perf: optimize sidebar disable-hide behavior 
+4. fix: fix issue with hidden "More Apps" settings option. 
+5. fix: Fix failure to open settings.
 
 ## [v4.2.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.2.0)
 
