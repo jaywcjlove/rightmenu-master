@@ -124,6 +124,27 @@ pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
   && osascript -e 'tell application id "com.wangchujiang.rightmenu-master" to activate'
 ```
 
+### Internationalization Support
+
+The project's internationalization files are placed uniformly in the [`i18n`](https://github.com/jaywcjlove/rightmenu-master/tree/main/i18n) directory. Currently, it is recommended to use **Xcode to open the project** for editing and previewing internationalization content.
+
+Future plans include developing an **independent tool** to simplify and optimize the management and preview process of internationalization files.
+
+Directory Structure Description
+
+```shell
+i18n
+├── FinderExtension
+│   └── Localizable.xcstrings # Localization files related to Finder extension
+├── Localizable.xcstrings     # Localization strings for the main application
+└── QuickLookPreview
+    └── Localizable.xcstrings # Localization files for Quick Look preview plugin
+```
+
+All internationalization content can currently be edited directly in **Xcode**.
+
+<img src="https://github.com/user-attachments/assets/b6d09488-11e2-4f5e-a8ec-c68952096f6e" />
+
 <!--idoc:config:
 title: An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
 keywords: RightMenu, Finder, macOS, application, file management, create new file, copy functionality, enhancement tool

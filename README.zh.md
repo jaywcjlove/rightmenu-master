@@ -122,6 +122,27 @@ pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
   && osascript -e 'tell application id "com.wangchujiang.rightmenu-master" to activate'
 ```
 
+### 国际化支持
+
+项目的国际化文件统一放置在 [`i18n`](https://github.com/jaywcjlove/rightmenu-master/tree/main/i18n) 目录中。目前推荐使用 **Xcode 打开项目** 来进行国际化内容的编辑与预览。
+
+后续计划开发一个 **独立的小工具**，用于简化和优化国际化文件的管理与预览流程。
+
+目录结构说明
+
+```shell
+i18n
+├── FinderExtension
+│   └── Localizable.xcstrings # Finder 扩展相关的本地化文件
+├── Localizable.xcstrings     # 主应用的本地化字符串
+└── QuickLookPreview
+    └── Localizable.xcstrings # Quick Look 预览插件的本地化文件
+```
+
+所有国际化内容目前均可直接在 **Xcode 中进行编辑**。
+
+<img src="https://github.com/user-attachments/assets/b6d09488-11e2-4f5e-a8ec-c68952096f6e" />
+
 <!--idoc:config:
 title: Menuist
 keywords: RightMenu,RightMenu Master,右键菜单,Finder,macOS,应用,文件管理,创建新文件,复制功能,增强工具
