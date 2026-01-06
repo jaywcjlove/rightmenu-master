@@ -159,7 +159,26 @@
 </span></code><input type="hidden" value="pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
   &#x26;&#x26; osascript -e &#x27;quit app id &#x22;com.wangchujiang.rightmenu-master&#x22;&#x27; \
   &#x26;&#x26; osascript -e &#x27;tell application id &#x22;com.wangchujiang.rightmenu-master&#x22; to activate&#x27;
-"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre><!--idoc:config:
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+        <h3 id="国际化支持"><a aria-hidden="true" tabindex="-1" href="#国际化支持" class="anchor"><span class="icon icon-link"></span></a>国际化支持</h3>
+        <p>项目的国际化文件统一放置在 <a href="https://github.com/jaywcjlove/rightmenu-master/tree/main/i18n"><code>i18n</code></a> 目录中。目前推荐使用 <strong>Xcode 打开项目</strong> 来进行国际化内容的编辑与预览。</p>
+        <p>后续计划开发一个 <strong>独立的小工具</strong>，用于简化和优化国际化文件的管理与预览流程。</p>
+        <p>目录结构说明</p>
+        <pre class="language-shell"><code class="language-shell code-highlight"><span class="code-line line-number" line="1">i18n
+</span><span class="code-line line-number" line="2">├── FinderExtension
+</span><span class="code-line line-number" line="3">│   └── Localizable.xcstrings <span class="token comment"># Finder 扩展相关的本地化文件</span>
+</span><span class="code-line line-number" line="4">├── Localizable.xcstrings     <span class="token comment"># 主应用的本地化字符串</span>
+</span><span class="code-line line-number" line="5">└── QuickLookPreview
+</span><span class="code-line line-number" line="6">    └── Localizable.xcstrings <span class="token comment"># Quick Look 预览插件的本地化文件</span>
+</span></code><input type="hidden" value="i18n
+├── FinderExtension
+│   └── Localizable.xcstrings # Finder 扩展相关的本地化文件
+├── Localizable.xcstrings     # 主应用的本地化字符串
+└── QuickLookPreview
+    └── Localizable.xcstrings # Quick Look 预览插件的本地化文件
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+        <p>所有国际化内容目前均可直接在 <strong>Xcode 中进行编辑</strong>。</p>
+        <img src="https://github.com/user-attachments/assets/b6d09488-11e2-4f5e-a8ec-c68952096f6e"><!--idoc:config:
         title: Menuist
         keywords: RightMenu,RightMenu Master,右键菜单,Finder,macOS,应用,文件管理,创建新文件,复制功能,增强工具
         description: 卓越的 Finder 右键菜单增强工具，让您的右键菜单更加强大。
