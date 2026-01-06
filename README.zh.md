@@ -13,6 +13,7 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.md">English</a> • 
+    <a href="#国际化支持">国际化支持</a> • 
 		<a href="#常见问题解答">常见问题</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/rightmenu-master/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
     <a href="./CHANGELOG.zh.md">更新日志</a>
