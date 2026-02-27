@@ -127,24 +127,7 @@ pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
 
 ### Internationalization Support
 
-The project's internationalization files are placed uniformly in the [`i18n`](https://github.com/jaywcjlove/rightmenu-master/tree/main/i18n) directory. Currently, it is recommended to use **Xcode to open the project** for editing and previewing internationalization content.
-
-Future plans include developing an **independent tool** to simplify and optimize the management and preview process of internationalization files.
-
-Directory Structure Description
-
-```shell
-i18n
-├── FinderExtension
-│   └── Localizable.xcstrings # Localization files related to Finder extension
-├── Localizable.xcstrings     # Localization strings for the main application
-└── QuickLookPreview
-    └── Localizable.xcstrings # Localization files for Quick Look preview plugin
-```
-
-All internationalization content can currently be edited directly in **Xcode**.
-
-<img src="https://github.com/user-attachments/assets/b6d09488-11e2-4f5e-a8ec-c68952096f6e" />
+Menuist's internationalization files are centrally maintained in [`@jaywcjlove/app-i18n/lproj/menuist`](https://github.com/jaywcjlove/app-i18n/tree/main/i18n/lproj/menuist/). Contributions of your language files are welcome!
 
 <!--idoc:config:
 title: An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.

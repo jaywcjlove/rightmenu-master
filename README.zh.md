@@ -125,22 +125,22 @@ pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
 
 ### 国际化支持
 
-项目的国际化文件统一放置在 [`i18n`](https://github.com/jaywcjlove/rightmenu-master/tree/main/i18n) 目录中。目前推荐使用 **Xcode 打开项目** 来进行国际化内容的编辑与预览。
+Menuist 的国际化文件统一放置在项目的 [`i18n`](./i18n) 目录中。目前推荐使用 **Xcode 打开项目** 来编辑和预览国际化内容。
 
-后续计划开发一个 **独立的小工具**，用于简化和优化国际化文件的管理与预览流程。
+未来计划开发一个**独立工具**来简化和优化国际化文件的管理和预览流程。
 
-目录结构说明
+**目录结构说明**
 
 ```shell
 i18n
 ├── FinderExtension
 │   └── Localizable.xcstrings # Finder 扩展相关的本地化文件
-├── Localizable.xcstrings     # 主应用的本地化字符串
+├── Localizable.xcstrings     # 主应用程序的本地化字符串
 └── QuickLookPreview
-    └── Localizable.xcstrings # Quick Look 预览插件的本地化文件
+    └── Localizable.xcstrings # 快速预览插件的本地化文件
 ```
 
-所有国际化内容目前均可直接在 **Xcode 中进行编辑**。
+所有国际化内容目前都可以直接在 **Xcode** 中编辑。欢迎贡献您的语言版本！
 
 <img src="https://github.com/user-attachments/assets/b6d09488-11e2-4f5e-a8ec-c68952096f6e" />
 
