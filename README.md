@@ -129,6 +129,8 @@ pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
 
 Menuist's internationalization files are centrally maintained in [`@jaywcjlove/app-i18n/lproj/menuist`](https://github.com/jaywcjlove/app-i18n/tree/main/i18n/lproj/menuist/). Contributions of your language files are welcome!
 
+https://wangchujiang.com/app-i18n/menuist.html
+
 <!--idoc:config:
 title: An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
 keywords: RightMenu, Finder, macOS, application, file management, create new file, copy functionality, enhancement tool

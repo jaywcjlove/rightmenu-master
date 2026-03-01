@@ -127,6 +127,8 @@ pluginkit -e use -i com.wangchujiang.rightmenu-master.sync \
 
 Menuist 的国际化文件放置在 [`@jaywcjlove/app-i18n/lproj/menuist`](https://github.com/jaywcjlove/app-i18n/tree/main/i18n/lproj/menuist/) 集中维护，欢迎添加自己相关语言文件
 
+https://wangchujiang.com/app-i18n/menuist.html
+
 <!--idoc:config:
 title: Menuist
 keywords: RightMenu,RightMenu Master,右键菜单,Finder,macOS,应用,文件管理,创建新文件,复制功能,增强工具
