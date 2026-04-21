@@ -6,7 +6,7 @@
 更新日志
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/menuist/6737160756" title="Menuist for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6737160756" title="Menuist for macOS">
   <img alt="Menuist for macOS" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
