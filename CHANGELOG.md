@@ -12,6 +12,16 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.5.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.5.0)
+
+1. feat: Add support for more languages
+2. fix: Optimize app list integration and window focus
+3. fix: Automatically focus the settings window on launch
+4. fix: Resolve the issue where settings window cannot be brought to front
+5. fix: Fix display error of Dock right-click menu
+6. perf: Replace the syntax highlighter for Quick Look
+7. refactor: Optimize UI components and utility functions
+
 ## [v4.4.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.4.0)
 
 1. feat: Add "Hide menu" option in status bar menu settings

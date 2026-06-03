@@ -12,6 +12,16 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.5.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.5.0)
+
+1. 新增：增加更多语种支持
+2. 修复：优化应用列表适配与窗口焦点效果
+3. 修复：打开设置窗口时自动置顶并激活
+4. 修复：设置窗口无法前置显示的问题
+5. 修复：程序坞右键菜单显示异常
+6. 优化：更换快速预览的代码高亮组件
+7. 重构：优化界面组件与通用功能代码
+
 ## [v4.4.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.4.0)
 
 1. feat: 在状态栏菜单设置中添加“隐藏菜单”选项
