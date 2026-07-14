@@ -12,6 +12,13 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.6.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.6.0)
+
+1. feat: 为应用添加 QuickLook 预览。
+2. feat(menu): 迁移 INI 处理至 SwiftINI 并优化应用命令。
+3. fix: 修复通用应用设置问题。
+4. fix(sidebar): 修正侧边栏菜单名称拼写错误。
+
 ## [v4.5.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.5.0)
 
 1. 新增：增加更多语种支持
