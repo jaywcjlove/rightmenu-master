@@ -65,11 +65,11 @@ Menuist is a highly configurable Finder extension that adds powerful functionali
 
 ## Main Features
 
+- **Menu Bar Quick Navigation**: Quickly access frequently used folders and applications through the menu bar to enhance operational efficiency.
 - **Create New File**: Easily create new files in specific formats and upload custom templates.
-- **Quick Preview with Code Highlighting**: Support for quick preview of code files with syntax highlighting.
 - **File QR Code Sharing**: Quickly share files via QR code and local network links.
 - **Frequently Used Folders**: Customize frequently used folders for quick access or to create new terminal windows.
-- **Website Navigation**：Supports setting frequently used folders as [website navigation](https://github.com/jaywcjlove/bookmarks).
+- **Website Navigation**: Supports setting frequently used folders as [website navigation](https://github.com/jaywcjlove/bookmarks).
 - **Folder Access History**: Record and quickly access the history paths of folders.
 - **Common Applications**: Quickly open commonly used editors or command line tools (Terminal/iTerm).
 - **Common Scripts**: You can create custom scripts and add them to the right-click menu.
@@ -83,12 +83,15 @@ Menuist is a highly configurable Finder extension that adds powerful functionali
 - **Set Folder Icon Color**: Quickly change or customize the color of folder icons.
 - **Cut and Paste Menu**: Cut(⌘X) and paste(⌘V) functions to enhance file operation flexibility.
 - **Create Desktop Shortcut**: Send files to the desktop as symbolic links (shortcuts).
-- **Menu Bar Quick Navigation**: Quickly access frequently used folders and applications through the menu bar to enhance operational efficiency.
 - **Copy To**: Allow quick copying of files or folders to a specified location.
 - **Move To**: Allow quick moving of files or folders to a specified location.
 - **Convert To**: Provide image format conversion functions.
 - **Create icns Icon**: Support quick navigation for creating icns icon files.
 - **File/Folder Locked**: Quickly lock files or folders via menu shortcut only
+- **QuickLook Preview for Apps**: Add QuickLook preview support for application files.
+- **Quick Preview with Code Highlighting**: Support for quick preview of code files with syntax highlighting.
+- **QuickLook Extension**: Add preview extension support for Icon Composer .icon format files
+- **External Drive Display**: Automatically display external drives within the status bar menu
 
 ## Frequently Asked Questions
 
