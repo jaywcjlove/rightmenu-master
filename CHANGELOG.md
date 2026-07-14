@@ -12,6 +12,13 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.7.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.7.0)
+
+1. feat: add Icon Composer .icon preview extension
+2. feat: auto-show external drives in status bar menu
+3. fix: reveal external volumes in Finder without sandbox access
+4. fix: auto-authorize common folders and fix reauth checks
+
 ## [v4.6.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.6.0)
 
 1. feat: add Icon Composer .icon preview extension

@@ -12,6 +12,13 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.7.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.7.0)
+
+1. 新增：支持 Icon Composer .icon 格式预览插件
+2. 新增：在状态栏菜单自动显示外接磁盘
+3. 修复：无需沙盒权限即可在访达中定位外接卷宗
+4. 修复：自动授予常用文件夹权限，并修正重新授权校验逻辑
+
 ## [v4.6.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.6.0)
 
 1. feat: 为应用添加 QuickLook 预览。
