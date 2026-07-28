@@ -12,6 +12,12 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.8.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.8.0)
+
+1. feat: add file hash calculator to context menu
+2. feat: add Icon Composer .icon preview extension
+3. fix: reveal external volumes in Finder without sandbox access
+
 ## [v4.7.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.7.0)
 
 1. feat: add Icon Composer .icon preview extension

@@ -12,6 +12,12 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.8.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.8.0)
+
+1. 新增：右键菜单添加文件哈希值计算功能
+2. 新增：支持 Icon Composer .icon 文件快速预览插件
+3. 修复：无需沙盒权限即可在访达中定位外置磁盘
+
 ## [v4.7.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.7.0)
 
 1. 新增：支持 Icon Composer .icon 格式预览插件
