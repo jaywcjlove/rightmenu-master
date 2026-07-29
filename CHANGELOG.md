@@ -12,6 +12,14 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.9.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.9.0)
+
+1. Added image EXIF removal tool.
+2. Added context menu support for creating aliases and hard links.
+3. Fixed multiple file sharing issues.
+4. Fixed the reversed state of the recommended apps toggle.
+5. Improved NSMenuItem symbol image visibility on macOS 27+.
+
 ## [v4.8.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.8.0)
 
 1. feat: add file hash calculator to context menu

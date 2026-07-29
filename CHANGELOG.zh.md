@@ -12,6 +12,14 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.9.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.9.0)
+
+1. 新增：添加图片 EXIF 移除工具。
+2. 新增：添加创建别名和硬链接的右键菜单。
+3. 修复：修复文件分享相关的多个问题。
+4. 修复：修复推荐应用开关状态反转的问题。
+5. 修复：在 macOS 27+ 中显式显示 NSMenuItem 符号图标。
+
 ## [v4.8.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.8.0)
 
 1. 新增：右键菜单添加文件哈希值计算功能
