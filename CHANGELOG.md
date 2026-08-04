@@ -12,6 +12,14 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.10.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.0)
+
+1. feat: add POSIX permission copy Finder extension
+2. feat: add permission access for network shared volumes.
+3. feat: add refresh button in settings page
+4. fix: Fix missing favorite app icons in status bar
+5. fix: polish settings toolbar menu and form layout
+
 ## [v4.9.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.9.0)
 
 1. Added image EXIF removal tool.

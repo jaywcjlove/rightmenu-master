@@ -12,6 +12,14 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.10.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.0)
+
+1. 新增：新增复制 POSIX 权限的 Finder 扩展
+2. 新增：新增网络共享磁盘卷访问权限
+3. 新增：设置页新增刷新按钮
+4. 修复：修复状态栏常用应用图标丢失
+5. 修复：优化设置页工具栏菜单与表单布局
+
 ## [v4.9.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.9.0)
 
 1. 新增：添加图片 EXIF 移除工具。
