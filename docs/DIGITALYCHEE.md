@@ -5,7 +5,7 @@
     <!--rehype:style=border: 0;padding-bottom: 0;margin-bottom: 0;-->
 Authorization Certificate<br/><br/>
 
-<b>小弟调调</b> 授权「数码荔枝」为大中国区官方合作伙伴<br/>
+<b><a href="https://x.com/jaywcjlove">小弟调调</a></b> 授权「数码荔枝」为大中国区官方合作伙伴<br/>
 We authorize DIGITALYCHEE as our official partner in China
 
 <b>负责以下软件在中国的销售事宜</b><br/>
