@@ -1,4 +1,5 @@
 <div align="center">
+    <br/><br/><br/>
     <img src="../assets/digitalychee.png" width="200" />
     <h2>授权证明</h2>
     <!--rehype:style=border: 0;-->
