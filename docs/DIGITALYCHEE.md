@@ -2,8 +2,8 @@
     <br/><br/><br/>
     <img src="../assets/digitalychee.png" width="200" />
     <h2>授权证明</h2>
-    <!--rehype:style=border: 0;-->
-Authorization Certificate
+    <!--rehype:style=border: 0;padding-bottom: 0;margin-bottom: 0;-->
+Authorization Certificate<br/><br/>
 
 <b>小弟调调</b> 授权「数码荔枝」为大中国区官方合作伙伴<br/>
 We authorize DIGITALYCHEE as our official partner in China
