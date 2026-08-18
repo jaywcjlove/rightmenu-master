@@ -12,6 +12,12 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.10.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.1)
+
+1. fix: 修复自定义图标的锁定文件夹角标丢失问题
+2. fix: 修复隐藏免费App菜单开关逻辑倒置问题
+3. style: 优化侧边栏样式
+
 ## [v4.10.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.0)
 
 1. 新增：新增复制 POSIX 权限的 Finder 扩展

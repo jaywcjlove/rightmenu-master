@@ -12,6 +12,12 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.10.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.1)
+
+1. fix: Fix missing badge for locked folders with custom icons.
+2. fix: Fix inverted logic of hide free app menu switch.
+3. style: Optimize sidebar styles.
+
 ## [v4.10.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.0)
 
 1. feat: add POSIX permission copy Finder extension
