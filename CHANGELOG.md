@@ -12,6 +12,10 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.10.2](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.2)
+
+1. fix: Fix sidebar styling issues on macOS 26
+
 ## [v4.10.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.1)
 
 1. fix: Fix missing badge for locked folders with custom icons.

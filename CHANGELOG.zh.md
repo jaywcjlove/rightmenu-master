@@ -12,6 +12,10 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.10.2](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.2)
+
+1. fix：修复 macOS 26 侧边栏样式异常
+
 ## [v4.10.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.1)
 
 1. fix: 修复自定义图标的锁定文件夹角标丢失问题
