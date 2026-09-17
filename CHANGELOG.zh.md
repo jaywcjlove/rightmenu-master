@@ -12,6 +12,13 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.11.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.0)
+
+1. feat: 更新应用图标
+2. fix: 修复 macOS 27 常用应用选择列表图标不显示问题
+3. fix: 修复定位应用位置时的授权问题
+4. fix: 修复菜单栏按钮图标出现时抖动问题
+
 ## [v4.10.2](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.2)
 
 1. fix：修复 macOS 26 侧边栏样式异常

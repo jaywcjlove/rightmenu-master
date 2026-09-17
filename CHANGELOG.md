@@ -12,6 +12,13 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.11.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.0)
+
+1. feat: Update App icon.
+2. fix: resolve missing icons in favorite app selection list on macOS 27.+0800
+3. fix: resolve authorization issue when locating app position.
+4. fix: Fix jitter on appearance of menu bar button icons.
+
 ## [v4.10.2](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.10.2)
 
 1. fix: Fix sidebar styling issues on macOS 26
