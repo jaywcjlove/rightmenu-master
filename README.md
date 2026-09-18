@@ -39,19 +39,19 @@ minimum OS requirement: `macOS 14.0`
 
 **Menuist** is a macOS file management utility that brings **context menu actions, quick navigation, and menu bar access** together, making everyday file operations faster and more convenient.
 
+![Menuist v4.0 Screenshot 1](./assets/screenshots-1.png)
+
 Quickly create files, preview code, copy paths, delete or paste files, and customize folder icons directly from the context menu. From the menu bar, you can instantly access favorite folders, frequently used locations, and recent folders without digging through Finder.
+
+![Menuist v4.0 Screenshot 3](./assets/screenshots-3.png)
 
 Whether you're managing everyday files or working on development projects, Menuist keeps your most-used actions and locations always within reach.
 
-![Menuist v4.0 Screenshot 1](./assets/screenshots-1.png)
+![Menuist v4.0 Screenshot 5](./assets/screenshots-5.png)
 
 ## A Must-Have Application for Mac Users!
 
 Menuist is a highly configurable Finder extension that adds powerful functionality to the right-click menu and toolbar in Finder. It allows for quicker and more convenient operations such as moving and copying files, as well as creating new documents. The application also comes with several practical preset operations, further enhancing your work efficiency.
-
-![Menuist v4.0 Screenshot 5](./assets/screenshots-5.png)
-
-![Menuist v4.0 Screenshot 3](./assets/screenshots-3.png)
 
 ![Menuist v4.0 Screenshot 2](./assets/screenshots-2.png)
 

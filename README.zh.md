@@ -37,19 +37,19 @@
 
 **Menuist** 是一款 macOS 文件管理增强工具，将 **右键菜单、快捷导航和菜单栏访问** 集于一体，让 Finder 中的文件操作和文件夹访问更加高效。
 
+![Menuist v4 Screenshot 1](./assets/screenshots-1.png)
+
 你可以通过右键菜单快速创建文件、预览代码、复制路径、删除文件、粘贴内容，以及自定义文件夹图标颜色；也可以通过菜单栏快速访问常用文件夹、最近访问记录和收藏位置，无需反复打开 Finder 层层查找。
+
+![Menuist v4 Screenshot 3](./assets/screenshots-3.png)
 
 无论是日常文件管理，还是开发工作，Menuist 都能让常用操作触手可及。
 
-![Menuist v4 Screenshot 1](./assets/screenshots-1.png)
+![Menuist v4 Screenshot 5](./assets/screenshots-5.png)
 
 ## Mac 用户必备应用！
 
 Menuist 是一款高度可配置的 Finder 扩展，能够为 Finder 的右键菜单和工具栏添加强大的操作功能。它让移动和复制文件、创建新文档等操作更加快捷、方便。应用还内置了多个实用的预设操作，进一步提升您的工作效率。
-
-![Menuist v4 Screenshot 5](./assets/screenshots-5.png)
-
-![Menuist v4 Screenshot 3](./assets/screenshots-3.png)
 
 ![Menuist v4 Screenshot 2](./assets/screenshots-2.png)
 
