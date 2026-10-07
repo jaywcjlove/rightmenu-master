@@ -12,6 +12,10 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.11.2](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.2)
+
+1. fix: resolve crop and paste not working on macOS 27.
+
 ## [v4.11.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.1)
 
 1. fix: Fix error when adding files in file share
