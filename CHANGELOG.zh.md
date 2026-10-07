@@ -12,6 +12,10 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.11.3](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.3)
+
+1. feat: 新增文件夹授权提示
+
 ## [v4.11.2](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.2)
 
 1. fix: 解决 macOS 27 上裁剪与粘贴功能失效问题

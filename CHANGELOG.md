@@ -12,6 +12,10 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.11.3](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.3)
+
+1. feat: add folder authorization prompt.
+
 ## [v4.11.2](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.2)
 
 1. fix: resolve crop and paste not working on macOS 27.
