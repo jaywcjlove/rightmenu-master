@@ -12,6 +12,11 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.11.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.1)
+
+1. fix：修复文件共享添加文件时报错的问题
+2. fix：修复 macOS 27 设置页中【上移/下移】按钮不显示的问题
+
 ## [v4.11.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.0)
 
 1. feat: 更新应用图标

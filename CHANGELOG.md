@@ -12,6 +12,11 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.11.1](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.1)
+
+1. fix: Fix error when adding files in file share
+2. fix: Fix Move Up / Move Down buttons not showing in macOS 27 settings
+
 ## [v4.11.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.0)
 
 1. feat: Update App icon.
