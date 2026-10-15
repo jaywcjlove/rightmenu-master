@@ -12,6 +12,11 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.12.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.12.0)
+
+1. feat: 新增右键菜单的书签设置选项
+2. fix: 修复书签配置读取错误问题
+
 ## [v4.11.3](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.3)
 
 1. feat: 新增文件夹授权提示

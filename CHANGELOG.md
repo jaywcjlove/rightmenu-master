@@ -12,6 +12,11 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.12.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.12.0)
+
+1. feat: add bookmark setting option in right-click menu.
+2. fix: fix bookmark config reading error.
+
 ## [v4.11.3](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.11.3)
 
 1. feat: add folder authorization prompt.
