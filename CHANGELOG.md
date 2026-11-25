@@ -12,6 +12,15 @@ Changelog
 
 Renamed 【RightMenu Master】 to 【Menuist】
 
+## [v4.13.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.13.0)
+
+1. feat: Show delete progress and allow cancellation.
+2. feat: Add confirmation before permanently deleting Finder items.
+3. feat: Keep the delete progress panel visible after completion.
+4. feat: Show paste progress and keep the result visible on screen.
+5. fix: Improve purchase status handling and reliability.
+6. fix: Add missing paste progress translations.
+
 ## [v4.12.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.12.0)
 
 1. feat: add bookmark setting option in right-click menu.

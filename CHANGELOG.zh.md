@@ -12,6 +12,15 @@
 
 【RightMenu Master】更名为【Menuist】
 
+## [v4.13.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.13.0)
+
+1. feat: 显示删除进度，并支持取消操作。
+2. feat: 永久删除 Finder 项目前增加确认提示。
+3. feat: 删除完成后保留删除进度面板。
+4. feat: 显示粘贴进度，并在完成后保留结果。
+5. fix: 改进购买状态处理，提高可靠性。
+6. fix: 补充缺失的粘贴进度本地化翻译。
+
 ## [v4.12.0](https://github.com/jaywcjlove/rightmenu-master/releases/tag/v4.12.0)
 
 1. feat: 新增右键菜单的书签设置选项
